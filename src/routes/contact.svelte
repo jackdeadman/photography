@@ -1,3 +1,8 @@
+<script context="module">
+	export const prerender = true;
+    export const hydrate = false;
+</script>
+
 <h2>Contact</h2>
 
 <form name="contact" method="POST" data-netlify="true">
