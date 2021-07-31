@@ -16,7 +16,7 @@
             </a>
 
             <div class="info">
-                <h2>{photo.name}</h2>
+                <h2><a href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
                 <p>{photo.description}</p>
             </div>
         </div>
@@ -25,6 +25,10 @@
 
 
 <style>
+
+    h2 a {
+        text-decoration: none;
+    }
 
     img {
         transition: opacity 0.1s ease;
