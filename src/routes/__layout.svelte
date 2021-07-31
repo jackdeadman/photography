@@ -23,6 +23,7 @@
 :global(body) {
     margin: 0 40px;
     font-family: 'Open Sans', sans-serif;
+    background: url('/bg.png');
 }
 
 :global(a) {
@@ -45,7 +46,8 @@
     display: block;
     height: 1px;
     border: 0;
-    border-top: 1px #ccc solid;
+    border-top: 1px #aaa solid;
+    box-shadow: 1px 1px 2px #ccc;
     margin: 1em 0; padding: 0;
 }
 </style>

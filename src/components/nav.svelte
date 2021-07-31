@@ -1,4 +1,4 @@
-<h1><a href="/">Jack's Photos</a></h1>
+<h1><a href="/"><div class="me"></div><span>Jack&rsquo;s Photos</span></a></h1>
 <!-- <nav>
     <a href="/">Home</a>
     <a href="/about">About</a>
@@ -6,6 +6,18 @@
 
 
 <style>
+
+
+    h1 .me {
+        display: inline-block;
+        vertical-align: baseline;
+        border-radius: 100%;
+        height: 50px;
+        width: 50px;
+        margin-right: 10px;
+        margin-bottom: -10px;
+        background: url('/me.jpg') center;
+    }
 
     a {
         color: #000;

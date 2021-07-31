@@ -62,7 +62,7 @@
   /* Set up proportionate scaling */
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.95);
+  background-color: rgba(255, 255, 255, 0.95);
 
   /* Set up positioning */
   position: fixed;
