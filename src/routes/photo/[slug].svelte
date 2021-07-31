@@ -55,6 +55,12 @@
         grid-template-columns: minmax(auto, max-content) 300px;
     }
 
+    @media only screen and (max-width: 800px) {
+        .container {
+            display: block;
+        }
+    }
+
     .info {
         margin: 0 1rem;
     }

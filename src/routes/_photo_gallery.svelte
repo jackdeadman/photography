@@ -43,6 +43,13 @@
         margin: 1rem 0;
     }
 
+    @media only screen and (max-width: 800px) {
+        .img-card {
+            display: block;
+            margin-bottom: 4rem;
+        }
+    }
+
     figure {
         margin: 0;
     }
