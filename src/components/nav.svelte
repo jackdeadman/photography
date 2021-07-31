@@ -1,8 +1,8 @@
-<h1>Jack Deadman</h1>
-<nav>
+<h1><a href="/">Jack's Photos</a></h1>
+<!-- <nav>
     <a href="/">Home</a>
     <a href="/about">About</a>
-</nav>
+</nav> -->
 
 
 <style>

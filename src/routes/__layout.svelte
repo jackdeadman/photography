@@ -1,7 +1,11 @@
 <svelte:head>
     <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
 </svelte:head>
 
 <script>
@@ -16,11 +20,21 @@
 
 :global(body) {
     margin: 0 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+:global(a) {
+    color: #222;
+    transition: color ease 0.2s;
+}
+
+:global(a:hover) {
+    color: #666;
 }
 
 :global(h1, h2, h3, h4) {
     color: #222;
-    font-family: 'Lora', serif;
+    font-family: 'Roboto', sans-serif;
     margin-bottom: 1rem;
 }
 

@@ -1,8 +1,8 @@
 {
     "photos": [
         {
-            "name": "",
-            "description": "",
+            "name": "A Pretty Bee",
+            "description": "A picture of a bee I took whilst walking around Sheffield. I like this photo as both the detail in the plant and the bee is really clear!",
             "tags": [],
             "slug": "bee",
             "meta": {
@@ -75,8 +75,8 @@
             }
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Catholic Cathedral",
+            "description": "A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.",
             "tags": [],
             "slug": "church",
             "meta": {
@@ -149,8 +149,8 @@
             }
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Dandelion in the Wind",
+            "description": "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes.",
             "tags": [],
             "slug": "dark-dandelion",
             "meta": {
@@ -223,8 +223,8 @@
             }
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Penguin of Weston Park",
+            "description": "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin.",
             "tags": [],
             "slug": "pigeon",
             "meta": {
@@ -297,8 +297,8 @@
             }
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Steep Hill",
+            "description": "I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.",
             "tags": [],
             "slug": "steep-hill",
             "meta": {
@@ -375,8 +375,8 @@
             }
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Subset over Sheffield",
+            "description": "Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!",
             "tags": [],
             "slug": "sunset",
             "meta": {
@@ -449,8 +449,8 @@
             }
         },
         {
-            "name": "",
-            "description": "",
+            "name": "Reflections of Sheffield",
+            "description": "A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.",
             "tags": [],
             "slug": "window-reflection",
             "meta": {
@@ -525,8 +525,8 @@
     ],
     "slugs": {
         "bee": {
-            "name": "",
-            "description": "",
+            "name": "A Pretty Bee",
+            "description": "A picture of a bee I took whilst walking around Sheffield. I like this photo as both the detail in the plant and the bee is really clear!",
             "tags": [],
             "slug": "bee",
             "meta": {
@@ -599,8 +599,8 @@
             }
         },
         "church": {
-            "name": "",
-            "description": "",
+            "name": "Catholic Cathedral",
+            "description": "A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.",
             "tags": [],
             "slug": "church",
             "meta": {
@@ -673,8 +673,8 @@
             }
         },
         "dark-dandelion": {
-            "name": "",
-            "description": "",
+            "name": "Dandelion in the Wind",
+            "description": "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes.",
             "tags": [],
             "slug": "dark-dandelion",
             "meta": {
@@ -747,8 +747,8 @@
             }
         },
         "pigeon": {
-            "name": "",
-            "description": "",
+            "name": "Penguin of Weston Park",
+            "description": "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin.",
             "tags": [],
             "slug": "pigeon",
             "meta": {
@@ -821,8 +821,8 @@
             }
         },
         "steep-hill": {
-            "name": "",
-            "description": "",
+            "name": "Steep Hill",
+            "description": "I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.",
             "tags": [],
             "slug": "steep-hill",
             "meta": {
@@ -899,8 +899,8 @@
             }
         },
         "sunset": {
-            "name": "",
-            "description": "",
+            "name": "Subset over Sheffield",
+            "description": "Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!",
             "tags": [],
             "slug": "sunset",
             "meta": {
@@ -973,8 +973,8 @@
             }
         },
         "window-reflection": {
-            "name": "",
-            "description": "",
+            "name": "Reflections of Sheffield",
+            "description": "A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.",
             "tags": [],
             "slug": "window-reflection",
             "meta": {
