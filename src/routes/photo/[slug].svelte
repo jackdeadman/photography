@@ -25,14 +25,13 @@
     <meta property="og:title" content={image.title} />
 </svelte:head>
 
-
+<h2><a href="/">Gallery</a> / {image.name}</h2>
 <div class="container">
     <figure>
         <img src={image.versions.med} alt="">
     </figure>
 
     <div class="info">
-        <h2>{image.name}</h2>
         <p>{image.description}</p>
 
         <ul class="exif">
@@ -49,6 +48,12 @@
 </div>
 
 <style>
+
+    h2 {
+        margin: 0;
+        color: #888;
+        font-size: 1.6em;
+    }
 
     .container {
         display: grid;

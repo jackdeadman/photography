@@ -43,7 +43,7 @@
         margin: 1rem 0;
     }
 
-    @media only screen and (max-width: 800px) {
+    @media only screen and (max-width: 600px) {
         .img-card {
             display: block;
             margin-bottom: 4rem;
