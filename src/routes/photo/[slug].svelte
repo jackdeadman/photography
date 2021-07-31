@@ -52,7 +52,7 @@
     h2 {
         margin: 0;
         color: #888;
-        font-size: 1.6em;
+        font-size: 1.4em;
     }
 
     .container {
