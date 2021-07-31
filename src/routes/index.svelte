@@ -1,6 +1,6 @@
 <script context="module">
 
-    export async function load({ page, fetch, session, context }) {
+    export async function load({ page, fetch}) {
 
         const url = '/api/photos.json';
         const res = await fetch(url);
