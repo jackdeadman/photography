@@ -1,6 +1,6 @@
 <script context="module">
 
-    export async function load({ page, fetch, session, context }) {
+    export async function load({ page, fetch}) {
 
         const url = `/api/photo/${page.params.slug}`;
         const res = await fetch(url);
@@ -25,7 +25,7 @@
     <meta property="og:title" content={image.title} />
 </svelte:head>
 
-<h2><a href="/">Gallery</a> / {image.name}</h2>
+<h2><a sveltekit:prefetch href="/">Gallery</a> / {image.name}</h2>
 <div class="container">
     <figure>
         <img src={image.versions.med} alt="">
@@ -58,6 +58,7 @@
     .container {
         display: grid;
         grid-template-columns: minmax(auto, max-content) 300px;
+        margin-bottom: 2rem;
     }
 
     @media only screen and (max-width: 800px) {
