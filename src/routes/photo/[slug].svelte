@@ -30,31 +30,30 @@
 
 {#if fullscreen}
     <div class="fullscreen">
-        <a href="#" on:click={() => {fullscreen=false}}></a>
+        <a href="#" on:click|preventDefault={() => {fullscreen=false}}></a>
         <img src={image.versions.med} alt="">
     </div>
-{:else}
-    <div class="container">
-        <figure>
-            <img on:click={() => {fullscreen=true}} src={image.versions.med} alt="">
-        </figure>
-
-        <div class="info">
-            <p>{image.description}</p>
-
-            <ul class="exif">
-                <li><b>{image.meta.image.Model}</b></li>
-                <li><b>{image.meta.exif.LensModel}</b></li>
-
-                <li>F/{image.meta.exif.FNumber}</li>
-                <li>ISO {image.meta.exif.ISO}</li>
-                <li>1/{1 / image.meta.exif.ExposureTime}</li>
-                <li>{image.meta.exif.FocalLength}mm</li>
-            </ul>
-            <a href={image.versions.full_jpg}>Download image</a>
-        </div>
-    </div>
 {/if}
+<div class="container">
+    <figure>
+        <img on:click|preventDefault={() => {fullscreen=true}} src={image.versions.med} alt="">
+    </figure>
+
+    <div class="info">
+        <p>{image.description}</p>
+
+        <ul class="exif">
+            <li><b>{image.meta.image.Model}</b></li>
+            <li><b>{image.meta.exif.LensModel}</b></li>
+
+            <li>F/{image.meta.exif.FNumber}</li>
+            <li>ISO {image.meta.exif.ISO}</li>
+            <li>1/{1 / image.meta.exif.ExposureTime}</li>
+            <li>{image.meta.exif.FocalLength}mm</li>
+        </ul>
+        <a href={image.versions.full_jpg}>Download image</a>
+    </div>
+</div>
 
 <style>
 
@@ -63,7 +62,7 @@
   /* Set up proportionate scaling */
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(0, 0, 0, 0.95);
 
   /* Set up positioning */
   position: fixed;
