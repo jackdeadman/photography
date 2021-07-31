@@ -43,7 +43,7 @@
         display: grid;
         grid-template-columns: 2fr 1fr;
         grid-gap: 2rem;
-        max-width: 700px;
+        max-width: 900px;
         margin: 1rem 0;
     }
 
