@@ -59,31 +59,36 @@
 <style>
 
     .fullscreen {
-        position: absolute;
+        position: fixed; 
+        top: -50%; 
+        left: -50%; 
+        width: 200%; 
+        height: 200%;
         background-color: rgba(0, 0, 0, 0.8);
-        height: 100%;
-        width: 100%;
-        top: 0;
-        left: 0;
-        text-align: center;
     }
 
 
 
     .fullscreen a {
         color: #fff;
+        z-index: 100;
+        position: absolute;
         font-size: 3em;
-        right: 0;
+         top: 0; 
+        left: 0; 
+        right: 0; 
+        bottom: 0; 
     }
 
     .fullscreen img {
-        position: absolute;
-        top: 50%;
-        transform: translateY(-50%) translateX(-50%);
-        left: 50%;
-        height: fit-content;
-        width: auto;
-        
+       position: absolute; 
+        top: 0; 
+        left: 0; 
+        right: 0; 
+        bottom: 0; 
+        margin: auto; 
+        min-width: 0%;
+        min-height: 50%;
     }
 
     h2 {
