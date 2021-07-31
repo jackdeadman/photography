@@ -1,5 +1,10 @@
 <script>
     export let photos;
+
+    function formatDate(time) {
+        const [year, month, day] = time.split(' ')[0].split(':');
+        return `${day}/${month}/${year}`;
+    }
 </script>
 
 <div class="container">
@@ -18,6 +23,7 @@
             <div class="info">
                 <h2><a href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
                 <p>{photo.description}</p>
+                <date>{formatDate(photo.meta.exif.DateTimeOriginal)}</date>
             </div>
         </div>
     {/each}
@@ -62,5 +68,13 @@
     figure img {
         display: block;
         width: 100%;
+    }
+
+    date {
+        font-weight: bold;
+        font-size: 0.8em;
+        text-align: right;
+        width: 100%;
+        display: block;
     }
 </style>

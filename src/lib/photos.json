@@ -4,6 +4,7 @@
             "name": "A Pretty Bee",
             "description": "A picture of a bee I took whilst walking around Sheffield. I like this photo as both the detail in the plant and the bee is really clear!",
             "tags": [],
+            "alt": "A picture of a bee on a purple flower.",
             "slug": "bee",
             "meta": {
                 "image": {
@@ -78,6 +79,7 @@
             "name": "Catholic Cathedral",
             "description": "A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.",
             "tags": [],
+            "alt": "A picture of an empty cathedral with a man about to start a service in front of no one.",
             "slug": "church",
             "meta": {
                 "image": {
@@ -152,6 +154,7 @@
             "name": "Dandelion in the Wind",
             "description": "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes.",
             "tags": [],
+            "alt": "Action shot of a danelion blowing in the wind.",
             "slug": "dark-dandelion",
             "meta": {
                 "image": {
@@ -223,10 +226,86 @@
             }
         },
         {
+            "name": "Hello, It's me!",
+            "description": "A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.",
+            "alt": "A selfie of me taken by using the reflection of a scratched sphere.",
+            "tags": [],
+            "slug": "me",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 15:51:49",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.003125,
+                    "FNumber": 5,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 10:38:49",
+                    "CreateDate": "2021:07:21 10:38:49",
+                    "ShutterSpeedValue": 8.321928,
+                    "ApertureValue": 4.643856,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 4.625,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 40,
+                    "SubSecTimeOriginal": "21",
+                    "SubSecTimeDigitized": "21",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/me.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/me.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/me.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/me.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/me.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/me.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/me.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/me.jpg"
+            }
+        },
+        {
             "name": "Penguin of Weston Park",
             "description": "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin.",
             "tags": [],
             "slug": "pigeon",
+            "alt": "A picture of a pigeon that looks like a penguin from the one it is positioned.",
             "meta": {
                 "image": {
                     "Make": "Canon",
@@ -300,6 +379,7 @@
             "name": "Steep Hill",
             "description": "I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.",
             "tags": [],
+            "alt": "Picture of steep hill in Lincoln, with the Cathedral in the background.",
             "slug": "steep-hill",
             "meta": {
                 "image": {
@@ -375,8 +455,9 @@
             }
         },
         {
-            "name": "Subset over Sheffield",
+            "name": "Sunset over Sheffield",
             "description": "Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!",
+            "alt": "silhouette sunset picture over Sheffield.",
             "tags": [],
             "slug": "sunset",
             "meta": {
@@ -449,8 +530,84 @@
             }
         },
         {
+            "name": "West Street at Night",
+            "description": "One of my favourite types of photography is street photography. I like the story this one tells, West Street is often a chaotic place at night. Here we can see a gentleman looking into the street, observing the world. The other part of the frame hints at the chaos he could be looking at. But nothing is really clear, much like trying to comprehend the people of West Street!",
+            "alt": "Black and White photo of a man looking into West Street. Taken from a reflection in a window.",
+            "tags": [],
+            "slug": "west-street",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 15:59:15",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.02,
+                    "FNumber": 1.8,
+                    "ExposureProgram": 1,
+                    "ISO": 1600,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 1600,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:28 23:17:38",
+                    "CreateDate": "2021:07:28 23:17:38",
+                    "ShutterSpeedValue": 5.643856,
+                    "ApertureValue": 1.695994,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 1.75,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 50,
+                    "SubSecTimeOriginal": "20",
+                    "SubSecTimeDigitized": "20",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 6514.657980456026,
+                    "FocalPlaneYResolution": 6734.006734006734,
+                    "FocalPlaneResolutionUnit": 2,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        50,
+                        50,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF50mm f/1.8 II",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/west-street.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/west-street.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/west-street.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/west-street.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/west-street.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/west-street.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/west-street.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/west-street.jpg"
+            }
+        },
+        {
             "name": "Reflections of Sheffield",
             "description": "A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.",
+            "alt": "Reflection of show tree and building in a shop window. Can see some lights inside of the shop.",
             "tags": [],
             "slug": "window-reflection",
             "meta": {
@@ -528,6 +685,7 @@
             "name": "A Pretty Bee",
             "description": "A picture of a bee I took whilst walking around Sheffield. I like this photo as both the detail in the plant and the bee is really clear!",
             "tags": [],
+            "alt": "A picture of a bee on a purple flower.",
             "slug": "bee",
             "meta": {
                 "image": {
@@ -602,6 +760,7 @@
             "name": "Catholic Cathedral",
             "description": "A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.",
             "tags": [],
+            "alt": "A picture of an empty cathedral with a man about to start a service in front of no one.",
             "slug": "church",
             "meta": {
                 "image": {
@@ -676,6 +835,7 @@
             "name": "Dandelion in the Wind",
             "description": "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes.",
             "tags": [],
+            "alt": "Action shot of a danelion blowing in the wind.",
             "slug": "dark-dandelion",
             "meta": {
                 "image": {
@@ -746,11 +906,87 @@
                 "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/dark-dandelion.jpg"
             }
         },
+        "me": {
+            "name": "Hello, It's me!",
+            "description": "A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.",
+            "alt": "A selfie of me taken by using the reflection of a scratched sphere.",
+            "tags": [],
+            "slug": "me",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 15:51:49",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.003125,
+                    "FNumber": 5,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 10:38:49",
+                    "CreateDate": "2021:07:21 10:38:49",
+                    "ShutterSpeedValue": 8.321928,
+                    "ApertureValue": 4.643856,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 4.625,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 40,
+                    "SubSecTimeOriginal": "21",
+                    "SubSecTimeDigitized": "21",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/me.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/me.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/me.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/me.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/me.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/me.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/me.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/me.jpg"
+            }
+        },
         "pigeon": {
             "name": "Penguin of Weston Park",
             "description": "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin.",
             "tags": [],
             "slug": "pigeon",
+            "alt": "A picture of a pigeon that looks like a penguin from the one it is positioned.",
             "meta": {
                 "image": {
                     "Make": "Canon",
@@ -824,6 +1060,7 @@
             "name": "Steep Hill",
             "description": "I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.",
             "tags": [],
+            "alt": "Picture of steep hill in Lincoln, with the Cathedral in the background.",
             "slug": "steep-hill",
             "meta": {
                 "image": {
@@ -899,8 +1136,9 @@
             }
         },
         "sunset": {
-            "name": "Subset over Sheffield",
+            "name": "Sunset over Sheffield",
             "description": "Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!",
+            "alt": "silhouette sunset picture over Sheffield.",
             "tags": [],
             "slug": "sunset",
             "meta": {
@@ -972,9 +1210,85 @@
                 "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/sunset.jpg"
             }
         },
+        "west-street": {
+            "name": "West Street at Night",
+            "description": "One of my favourite types of photography is street photography. I like the story this one tells, West Street is often a chaotic place at night. Here we can see a gentleman looking into the street, observing the world. The other part of the frame hints at the chaos he could be looking at. But nothing is really clear, much like trying to comprehend the people of West Street!",
+            "alt": "Black and White photo of a man looking into West Street. Taken from a reflection in a window.",
+            "tags": [],
+            "slug": "west-street",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 15:59:15",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.02,
+                    "FNumber": 1.8,
+                    "ExposureProgram": 1,
+                    "ISO": 1600,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 1600,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:28 23:17:38",
+                    "CreateDate": "2021:07:28 23:17:38",
+                    "ShutterSpeedValue": 5.643856,
+                    "ApertureValue": 1.695994,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 1.75,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 50,
+                    "SubSecTimeOriginal": "20",
+                    "SubSecTimeDigitized": "20",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 6514.657980456026,
+                    "FocalPlaneYResolution": 6734.006734006734,
+                    "FocalPlaneResolutionUnit": 2,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        50,
+                        50,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF50mm f/1.8 II",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/west-street.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/west-street.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/west-street.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/west-street.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/west-street.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/west-street.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/west-street.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/west-street.jpg"
+            }
+        },
         "window-reflection": {
             "name": "Reflections of Sheffield",
             "description": "A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.",
+            "alt": "Reflection of show tree and building in a shop window. Can see some lights inside of the shop.",
             "tags": [],
             "slug": "window-reflection",
             "meta": {
