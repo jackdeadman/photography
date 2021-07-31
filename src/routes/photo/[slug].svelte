@@ -30,7 +30,7 @@
 
 {#if fullscreen}
     <div class="fullscreen">
-        <a href="#" on:click={() => {fullscreen=false}}>Close</a>
+        <a href="#" on:click={() => {fullscreen=false}}></a>
         <img src={image.versions.med} alt="">
     </div>
 {:else}
@@ -59,12 +59,17 @@
 <style>
 
     .fullscreen {
-        position: fixed; 
-        top: -50%; 
-        left: -50%; 
-        width: 200%; 
-        height: 200%;
-        background-color: rgba(0, 0, 0, 0.8);
+
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
     }
 
 
@@ -81,14 +86,17 @@
     }
 
     .fullscreen img {
-       position: absolute; 
-        top: 0; 
-        left: 0; 
-        right: 0; 
-        bottom: 0; 
-        margin: auto; 
-        min-width: 0%;
-        min-height: 50%;
+       /* max-width: 100%;
+    max-height: 100%; */
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    overflow: auto;
+    position: fixed;
+    right: 0;
+    top: 0;
+    object-fit: contain;
+
     }
 
     h2 {
