@@ -16,6 +16,7 @@
 
 <script>
     export let image;
+    let fullscreen = false;
 </script>
 
 
@@ -26,28 +27,64 @@
 </svelte:head>
 
 <h2><a sveltekit:prefetch href="/">Gallery</a> / {image.name}</h2>
-<div class="container">
-    <figure>
+
+{#if fullscreen}
+    <div class="fullscreen">
+        <a href="#" on:click={() => {fullscreen=false}}>Close</a>
         <img src={image.versions.med} alt="">
-    </figure>
-
-    <div class="info">
-        <p>{image.description}</p>
-
-        <ul class="exif">
-            <li><b>{image.meta.image.Model}</b></li>
-            <li><b>{image.meta.exif.LensModel}</b></li>
-
-            <li>F/{image.meta.exif.FNumber}</li>
-            <li>ISO {image.meta.exif.ISO}</li>
-            <li>1/{1 / image.meta.exif.ExposureTime}</li>
-            <li>{image.meta.exif.FocalLength}mm</li>
-        </ul>
-        <a href={image.versions.full_jpg}>Download image</a>
     </div>
-</div>
+{:else}
+    <div class="container">
+        <figure>
+            <img on:click={() => {fullscreen=true}} src={image.versions.med} alt="">
+        </figure>
+
+        <div class="info">
+            <p>{image.description}</p>
+
+            <ul class="exif">
+                <li><b>{image.meta.image.Model}</b></li>
+                <li><b>{image.meta.exif.LensModel}</b></li>
+
+                <li>F/{image.meta.exif.FNumber}</li>
+                <li>ISO {image.meta.exif.ISO}</li>
+                <li>1/{1 / image.meta.exif.ExposureTime}</li>
+                <li>{image.meta.exif.FocalLength}mm</li>
+            </ul>
+            <a href={image.versions.full_jpg}>Download image</a>
+        </div>
+    </div>
+{/if}
 
 <style>
+
+    .fullscreen {
+        position: absolute;
+        background-color: rgba(0, 0, 0, 0.8);
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+        text-align: center;
+    }
+
+
+
+    .fullscreen a {
+        color: #fff;
+        font-size: 3em;
+        right: 0;
+    }
+
+    .fullscreen img {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%) translateX(-50%);
+        left: 50%;
+        height: fit-content;
+        width: auto;
+        
+    }
 
     h2 {
         margin: 0;
@@ -81,6 +118,7 @@
     }
 
     img {
+        cursor: pointer;
         display: block;
         width: auto;
         max-width: 100%;
