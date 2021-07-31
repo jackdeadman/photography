@@ -1,0 +1,72 @@
+name: ''
+description: ''
+tags: []
+slug: pigeon
+meta:
+  image:
+    Make: Canon
+    Model: Canon EOS M50
+    Software: Adobe Imagecore (Linux)
+    ModifyDate: 2021:07:31 08:50:52
+    ExifOffset: 138
+  thumbnail: {}
+  exif:
+    ExposureTime: 0.001
+    FNumber: 6.3
+    ExposureProgram: 1
+    ISO: 3200
+    SensitivityType: 2
+    RecommendedExposureIndex: 3200
+    ExifVersion:
+      type: Buffer
+      data:
+        - 48
+        - 50
+        - 51
+        - 49
+    DateTimeOriginal: 2021:07:08 18:58:06
+    CreateDate: 2021:07:08 18:58:06
+    ShutterSpeedValue: 9.965784
+    ApertureValue: 5.310704
+    ExposureCompensation: 0
+    MaxApertureValue: 5.375
+    MeteringMode: 5
+    Flash: 0
+    FocalLength: 150
+    SubSecTimeOriginal: '27'
+    SubSecTimeDigitized: '27'
+    ColorSpace: 65535
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    FocalPlaneResolutionUnit: 3
+    CustomRendered: 0
+    ExposureMode: 1
+    WhiteBalance: 0
+    SceneCaptureType: 0
+    SerialNumber: '103030002465'
+    LensInfo:
+      - 18
+      - 150
+      - null
+      - null
+    LensModel: EF-M18-150mm f/3.5-6.3 IS STM
+    LensSerialNumber: '0000000000'
+  gps: {}
+  interoperability: {}
+  makernote: {}
+versions:
+  full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/pigeon.webp
+  med: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/pigeon.webp
+  small: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/pigeon.webp
+  tiny: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/pigeon.webp
+  full_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/pigeon.jpg
+  med_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/pigeon.jpg
+  small_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/pigeon.jpg
+  tiny_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/pigeon.jpg

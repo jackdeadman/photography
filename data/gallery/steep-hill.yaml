@@ -1,0 +1,75 @@
+name: ''
+description: ''
+tags: []
+slug: steep-hill
+meta:
+  image:
+    Make: Canon
+    Model: Canon PowerShot SX420 IS
+    Software: Adobe Imagecore (Linux)
+    ModifyDate: 2021:07:31 08:49:28
+    ExifOffset: 150
+  thumbnail: {}
+  exif:
+    ExposureTime: 0.0025
+    FNumber: 5
+    ISO: 100
+    SensitivityType: 4
+    ExifVersion:
+      type: Buffer
+      data:
+        - 48
+        - 50
+        - 51
+        - 49
+    DateTimeOriginal: 2021:07:16 11:26:10
+    CreateDate: 2021:07:16 11:26:10
+    ShutterSpeedValue: 8.643856
+    ApertureValue: 4.643856
+    ExposureCompensation: 0
+    MaxApertureValue: 4.65625
+    MeteringMode: 5
+    Flash: 16
+    FocalLength: 18.383
+    SubSecTimeOriginal: '67'
+    SubSecTimeDigitized: '67'
+    ColorSpace: 65535
+    FocalPlaneXResolution: 21201.646090534978
+    FocalPlaneYResolution: 21114.754098360656
+    FocalPlaneResolutionUnit: 2
+    SensingMethod: 2
+    FileSource:
+      type: Buffer
+      data:
+        - 3
+    CustomRendered: 0
+    ExposureMode: 0
+    WhiteBalance: 1
+    DigitalZoomRatio: 1
+    SceneCaptureType: 0
+    LensInfo:
+      - 4.3
+      - 180.6
+      - null
+      - null
+    LensModel: 4.3-180.6 mm
+  gps: {}
+  interoperability: {}
+  makernote: {}
+versions:
+  full: >-
+    https://jack-deadman-photography.s3.amazonaws.com/gallery/full/steep-hill.webp
+  med: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/steep-hill.webp
+  small: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/steep-hill.webp
+  tiny: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/steep-hill.webp
+  full_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/steep-hill.jpg
+  med_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/steep-hill.jpg
+  small_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/steep-hill.jpg
+  tiny_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/steep-hill.jpg

@@ -1,0 +1,73 @@
+name: ''
+description: ''
+tags: []
+slug: window-reflection
+meta:
+  image:
+    Make: Canon
+    Model: Canon EOS M50
+    Software: Adobe Imagecore (Linux)
+    ModifyDate: 2021:07:31 08:46:58
+    ExifOffset: 138
+  thumbnail: {}
+  exif:
+    ExposureTime: 0.003125
+    FNumber: 5.6
+    ExposureProgram: 1
+    ISO: 100
+    SensitivityType: 2
+    RecommendedExposureIndex: 100
+    ExifVersion:
+      type: Buffer
+      data:
+        - 48
+        - 50
+        - 51
+        - 49
+    DateTimeOriginal: 2021:07:21 11:24:18
+    CreateDate: 2021:07:21 11:24:18
+    ShutterSpeedValue: 8.321928
+    ApertureValue: 4.970854
+    ExposureCompensation: 0
+    MaxApertureValue: 5.125
+    MeteringMode: 5
+    Flash: 0
+    FocalLength: 54
+    SubSecTimeOriginal: '40'
+    SubSecTimeDigitized: '40'
+    ColorSpace: 65535
+    FocalPlaneXResolution: 6514.657980456026
+    FocalPlaneYResolution: 6734.006734006734
+    FocalPlaneResolutionUnit: 2
+    CustomRendered: 0
+    ExposureMode: 1
+    WhiteBalance: 0
+    SceneCaptureType: 0
+    SerialNumber: '103030002465'
+    LensInfo:
+      - 18
+      - 150
+      - null
+      - null
+    LensModel: EF-M18-150mm f/3.5-6.3 IS STM
+    LensSerialNumber: '0000000000'
+  gps: {}
+  interoperability: {}
+  makernote: {}
+versions:
+  full: >-
+    https://jack-deadman-photography.s3.amazonaws.com/gallery/full/window-reflection.webp
+  med: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/window-reflection.webp
+  small: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/window-reflection.webp
+  tiny: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/window-reflection.webp
+  full_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/window-reflection.jpg
+  med_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/window-reflection.jpg
+  small_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/window-reflection.jpg
+  tiny_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/window-reflection.jpg

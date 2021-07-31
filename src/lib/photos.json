@@ -1,0 +1,1050 @@
+{
+    "photos": [
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "bee",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:45:23",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.00625,
+                    "FNumber": 9,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 12:57:03",
+                    "CreateDate": "2021:07:21 12:57:03",
+                    "ShutterSpeedValue": 7.321928,
+                    "ApertureValue": 6.33985,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.375,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 150,
+                    "SubSecTimeOriginal": "70",
+                    "SubSecTimeDigitized": "70",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/bee.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/bee.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/bee.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/bee.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/bee.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/bee.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/bee.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/bee.jpg"
+            }
+        },
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "church",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:48:24",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.03333333333333333,
+                    "FNumber": 5,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 11:35:31",
+                    "CreateDate": "2021:07:21 11:35:31",
+                    "ShutterSpeedValue": 4.906891,
+                    "ApertureValue": 4.643856,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 4.5,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 32,
+                    "SubSecTimeOriginal": "77",
+                    "SubSecTimeDigitized": "77",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/church.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/church.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/church.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/church.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/church.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/church.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/church.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/church.jpg"
+            }
+        },
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "dark-dandelion",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:08:13",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.00025,
+                    "FNumber": 6.3,
+                    "ExposureProgram": 1,
+                    "ISO": 800,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 800,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:24 17:01:55",
+                    "CreateDate": "2021:07:24 17:01:55",
+                    "ShutterSpeedValue": 11.965784,
+                    "ApertureValue": 5.310704,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.25,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 74,
+                    "SubSecTimeOriginal": "29",
+                    "SubSecTimeDigitized": "29",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/dark-dandelion.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/dark-dandelion.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/dark-dandelion.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/dark-dandelion.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/dark-dandelion.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/dark-dandelion.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/dark-dandelion.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/dark-dandelion.jpg"
+            }
+        },
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "pigeon",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:50:52",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.001,
+                    "FNumber": 6.3,
+                    "ExposureProgram": 1,
+                    "ISO": 3200,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 3200,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:08 18:58:06",
+                    "CreateDate": "2021:07:08 18:58:06",
+                    "ShutterSpeedValue": 9.965784,
+                    "ApertureValue": 5.310704,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.375,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 150,
+                    "SubSecTimeOriginal": "27",
+                    "SubSecTimeDigitized": "27",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/pigeon.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/pigeon.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/pigeon.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/pigeon.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/pigeon.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/pigeon.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/pigeon.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/pigeon.jpg"
+            }
+        },
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "steep-hill",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon PowerShot SX420 IS",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:49:28",
+                    "ExifOffset": 150
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.0025,
+                    "FNumber": 5,
+                    "ISO": 100,
+                    "SensitivityType": 4,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:16 11:26:10",
+                    "CreateDate": "2021:07:16 11:26:10",
+                    "ShutterSpeedValue": 8.643856,
+                    "ApertureValue": 4.643856,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 4.65625,
+                    "MeteringMode": 5,
+                    "Flash": 16,
+                    "FocalLength": 18.383,
+                    "SubSecTimeOriginal": "67",
+                    "SubSecTimeDigitized": "67",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 21201.646090534978,
+                    "FocalPlaneYResolution": 21114.754098360656,
+                    "FocalPlaneResolutionUnit": 2,
+                    "SensingMethod": 2,
+                    "FileSource": {
+                        "type": "Buffer",
+                        "data": [
+                            3
+                        ]
+                    },
+                    "CustomRendered": 0,
+                    "ExposureMode": 0,
+                    "WhiteBalance": 1,
+                    "DigitalZoomRatio": 1,
+                    "SceneCaptureType": 0,
+                    "LensInfo": [
+                        4.3,
+                        180.6,
+                        null,
+                        null
+                    ],
+                    "LensModel": "4.3-180.6 mm"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/steep-hill.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/steep-hill.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/steep-hill.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/steep-hill.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/steep-hill.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/steep-hill.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/steep-hill.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/steep-hill.jpg"
+            }
+        },
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "sunset",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:52:12",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.03333333333333333,
+                    "FNumber": 8,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:08 21:55:44",
+                    "CreateDate": "2021:07:08 21:55:44",
+                    "ShutterSpeedValue": 4.906891,
+                    "ApertureValue": 6,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.375,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 135,
+                    "SubSecTimeOriginal": "07",
+                    "SubSecTimeDigitized": "07",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/sunset.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/sunset.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/sunset.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/sunset.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/sunset.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/sunset.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/sunset.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/sunset.jpg"
+            }
+        },
+        {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "window-reflection",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:46:58",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.003125,
+                    "FNumber": 5.6,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 11:24:18",
+                    "CreateDate": "2021:07:21 11:24:18",
+                    "ShutterSpeedValue": 8.321928,
+                    "ApertureValue": 4.970854,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.125,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 54,
+                    "SubSecTimeOriginal": "40",
+                    "SubSecTimeDigitized": "40",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 6514.657980456026,
+                    "FocalPlaneYResolution": 6734.006734006734,
+                    "FocalPlaneResolutionUnit": 2,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/window-reflection.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/window-reflection.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/window-reflection.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/window-reflection.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/window-reflection.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/window-reflection.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/window-reflection.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/window-reflection.jpg"
+            }
+        }
+    ],
+    "slugs": {
+        "bee": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "bee",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:45:23",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.00625,
+                    "FNumber": 9,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 12:57:03",
+                    "CreateDate": "2021:07:21 12:57:03",
+                    "ShutterSpeedValue": 7.321928,
+                    "ApertureValue": 6.33985,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.375,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 150,
+                    "SubSecTimeOriginal": "70",
+                    "SubSecTimeDigitized": "70",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/bee.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/bee.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/bee.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/bee.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/bee.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/bee.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/bee.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/bee.jpg"
+            }
+        },
+        "church": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "church",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:48:24",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.03333333333333333,
+                    "FNumber": 5,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 11:35:31",
+                    "CreateDate": "2021:07:21 11:35:31",
+                    "ShutterSpeedValue": 4.906891,
+                    "ApertureValue": 4.643856,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 4.5,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 32,
+                    "SubSecTimeOriginal": "77",
+                    "SubSecTimeDigitized": "77",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/church.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/church.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/church.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/church.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/church.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/church.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/church.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/church.jpg"
+            }
+        },
+        "dark-dandelion": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "dark-dandelion",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:08:13",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.00025,
+                    "FNumber": 6.3,
+                    "ExposureProgram": 1,
+                    "ISO": 800,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 800,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:24 17:01:55",
+                    "CreateDate": "2021:07:24 17:01:55",
+                    "ShutterSpeedValue": 11.965784,
+                    "ApertureValue": 5.310704,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.25,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 74,
+                    "SubSecTimeOriginal": "29",
+                    "SubSecTimeDigitized": "29",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/dark-dandelion.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/dark-dandelion.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/dark-dandelion.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/dark-dandelion.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/dark-dandelion.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/dark-dandelion.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/dark-dandelion.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/dark-dandelion.jpg"
+            }
+        },
+        "pigeon": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "pigeon",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:50:52",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.001,
+                    "FNumber": 6.3,
+                    "ExposureProgram": 1,
+                    "ISO": 3200,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 3200,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:08 18:58:06",
+                    "CreateDate": "2021:07:08 18:58:06",
+                    "ShutterSpeedValue": 9.965784,
+                    "ApertureValue": 5.310704,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.375,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 150,
+                    "SubSecTimeOriginal": "27",
+                    "SubSecTimeDigitized": "27",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/pigeon.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/pigeon.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/pigeon.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/pigeon.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/pigeon.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/pigeon.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/pigeon.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/pigeon.jpg"
+            }
+        },
+        "steep-hill": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "steep-hill",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon PowerShot SX420 IS",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:49:28",
+                    "ExifOffset": 150
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.0025,
+                    "FNumber": 5,
+                    "ISO": 100,
+                    "SensitivityType": 4,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:16 11:26:10",
+                    "CreateDate": "2021:07:16 11:26:10",
+                    "ShutterSpeedValue": 8.643856,
+                    "ApertureValue": 4.643856,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 4.65625,
+                    "MeteringMode": 5,
+                    "Flash": 16,
+                    "FocalLength": 18.383,
+                    "SubSecTimeOriginal": "67",
+                    "SubSecTimeDigitized": "67",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 21201.646090534978,
+                    "FocalPlaneYResolution": 21114.754098360656,
+                    "FocalPlaneResolutionUnit": 2,
+                    "SensingMethod": 2,
+                    "FileSource": {
+                        "type": "Buffer",
+                        "data": [
+                            3
+                        ]
+                    },
+                    "CustomRendered": 0,
+                    "ExposureMode": 0,
+                    "WhiteBalance": 1,
+                    "DigitalZoomRatio": 1,
+                    "SceneCaptureType": 0,
+                    "LensInfo": [
+                        4.3,
+                        180.6,
+                        null,
+                        null
+                    ],
+                    "LensModel": "4.3-180.6 mm"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/steep-hill.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/steep-hill.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/steep-hill.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/steep-hill.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/steep-hill.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/steep-hill.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/steep-hill.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/steep-hill.jpg"
+            }
+        },
+        "sunset": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "sunset",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:52:12",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.03333333333333333,
+                    "FNumber": 8,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:08 21:55:44",
+                    "CreateDate": "2021:07:08 21:55:44",
+                    "ShutterSpeedValue": 4.906891,
+                    "ApertureValue": 6,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.375,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 135,
+                    "SubSecTimeOriginal": "07",
+                    "SubSecTimeDigitized": "07",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 2789.976287841797,
+                    "FocalPlaneYResolution": 2789.976287841797,
+                    "FocalPlaneResolutionUnit": 3,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/sunset.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/sunset.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/sunset.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/sunset.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/sunset.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/sunset.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/sunset.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/sunset.jpg"
+            }
+        },
+        "window-reflection": {
+            "name": "",
+            "description": "",
+            "tags": [],
+            "slug": "window-reflection",
+            "meta": {
+                "image": {
+                    "Make": "Canon",
+                    "Model": "Canon EOS M50",
+                    "Software": "Adobe Imagecore (Linux)",
+                    "ModifyDate": "2021:07:31 08:46:58",
+                    "ExifOffset": 138
+                },
+                "thumbnail": {},
+                "exif": {
+                    "ExposureTime": 0.003125,
+                    "FNumber": 5.6,
+                    "ExposureProgram": 1,
+                    "ISO": 100,
+                    "SensitivityType": 2,
+                    "RecommendedExposureIndex": 100,
+                    "ExifVersion": {
+                        "type": "Buffer",
+                        "data": [
+                            48,
+                            50,
+                            51,
+                            49
+                        ]
+                    },
+                    "DateTimeOriginal": "2021:07:21 11:24:18",
+                    "CreateDate": "2021:07:21 11:24:18",
+                    "ShutterSpeedValue": 8.321928,
+                    "ApertureValue": 4.970854,
+                    "ExposureCompensation": 0,
+                    "MaxApertureValue": 5.125,
+                    "MeteringMode": 5,
+                    "Flash": 0,
+                    "FocalLength": 54,
+                    "SubSecTimeOriginal": "40",
+                    "SubSecTimeDigitized": "40",
+                    "ColorSpace": 65535,
+                    "FocalPlaneXResolution": 6514.657980456026,
+                    "FocalPlaneYResolution": 6734.006734006734,
+                    "FocalPlaneResolutionUnit": 2,
+                    "CustomRendered": 0,
+                    "ExposureMode": 1,
+                    "WhiteBalance": 0,
+                    "SceneCaptureType": 0,
+                    "SerialNumber": "103030002465",
+                    "LensInfo": [
+                        18,
+                        150,
+                        null,
+                        null
+                    ],
+                    "LensModel": "EF-M18-150mm f/3.5-6.3 IS STM",
+                    "LensSerialNumber": "0000000000"
+                },
+                "gps": {},
+                "interoperability": {},
+                "makernote": {}
+            },
+            "versions": {
+                "full": "https://jack-deadman-photography.s3.amazonaws.com/gallery/full/window-reflection.webp",
+                "med": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/window-reflection.webp",
+                "small": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/window-reflection.webp",
+                "tiny": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/window-reflection.webp",
+                "full_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/window-reflection.jpg",
+                "med_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/window-reflection.jpg",
+                "small_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/window-reflection.jpg",
+                "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/window-reflection.jpg"
+            }
+        }
+    }
+}

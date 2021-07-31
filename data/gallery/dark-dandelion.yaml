@@ -1,0 +1,73 @@
+name: ''
+description: ''
+tags: []
+slug: dark-dandelion
+meta:
+  image:
+    Make: Canon
+    Model: Canon EOS M50
+    Software: Adobe Imagecore (Linux)
+    ModifyDate: 2021:07:31 08:08:13
+    ExifOffset: 138
+  thumbnail: {}
+  exif:
+    ExposureTime: 0.00025
+    FNumber: 6.3
+    ExposureProgram: 1
+    ISO: 800
+    SensitivityType: 2
+    RecommendedExposureIndex: 800
+    ExifVersion:
+      type: Buffer
+      data:
+        - 48
+        - 50
+        - 51
+        - 49
+    DateTimeOriginal: 2021:07:24 17:01:55
+    CreateDate: 2021:07:24 17:01:55
+    ShutterSpeedValue: 11.965784
+    ApertureValue: 5.310704
+    ExposureCompensation: 0
+    MaxApertureValue: 5.25
+    MeteringMode: 5
+    Flash: 0
+    FocalLength: 74
+    SubSecTimeOriginal: '29'
+    SubSecTimeDigitized: '29'
+    ColorSpace: 65535
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    FocalPlaneResolutionUnit: 3
+    CustomRendered: 0
+    ExposureMode: 1
+    WhiteBalance: 0
+    SceneCaptureType: 0
+    SerialNumber: '103030002465'
+    LensInfo:
+      - 18
+      - 150
+      - null
+      - null
+    LensModel: EF-M18-150mm f/3.5-6.3 IS STM
+    LensSerialNumber: '0000000000'
+  gps: {}
+  interoperability: {}
+  makernote: {}
+versions:
+  full: >-
+    https://jack-deadman-photography.s3.amazonaws.com/gallery/full/dark-dandelion.webp
+  med: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/dark-dandelion.webp
+  small: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/dark-dandelion.webp
+  tiny: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/dark-dandelion.webp
+  full_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/dark-dandelion.jpg
+  med_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/dark-dandelion.jpg
+  small_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/dark-dandelion.jpg
+  tiny_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/dark-dandelion.jpg

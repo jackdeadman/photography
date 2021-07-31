@@ -1,0 +1,72 @@
+name: ''
+description: ''
+tags: []
+slug: sunset
+meta:
+  image:
+    Make: Canon
+    Model: Canon EOS M50
+    Software: Adobe Imagecore (Linux)
+    ModifyDate: 2021:07:31 08:52:12
+    ExifOffset: 138
+  thumbnail: {}
+  exif:
+    ExposureTime: 0.03333333333333333
+    FNumber: 8
+    ExposureProgram: 1
+    ISO: 100
+    SensitivityType: 2
+    RecommendedExposureIndex: 100
+    ExifVersion:
+      type: Buffer
+      data:
+        - 48
+        - 50
+        - 51
+        - 49
+    DateTimeOriginal: 2021:07:08 21:55:44
+    CreateDate: 2021:07:08 21:55:44
+    ShutterSpeedValue: 4.906891
+    ApertureValue: 6
+    ExposureCompensation: 0
+    MaxApertureValue: 5.375
+    MeteringMode: 5
+    Flash: 0
+    FocalLength: 135
+    SubSecTimeOriginal: '07'
+    SubSecTimeDigitized: '07'
+    ColorSpace: 65535
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    FocalPlaneResolutionUnit: 3
+    CustomRendered: 0
+    ExposureMode: 1
+    WhiteBalance: 0
+    SceneCaptureType: 0
+    SerialNumber: '103030002465'
+    LensInfo:
+      - 18
+      - 150
+      - null
+      - null
+    LensModel: EF-M18-150mm f/3.5-6.3 IS STM
+    LensSerialNumber: '0000000000'
+  gps: {}
+  interoperability: {}
+  makernote: {}
+versions:
+  full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/sunset.webp
+  med: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/sunset.webp
+  small: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/sunset.webp
+  tiny: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/sunset.webp
+  full_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/sunset.jpg
+  med_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/sunset.jpg
+  small_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/sunset.jpg
+  tiny_jpg: >-
+    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/sunset.jpg
