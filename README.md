@@ -3,7 +3,7 @@
 Welcome to my repository for my photography website. It is a site built with Svelte-kit. For the live site please visit:
 
 
-[photos.jackdeadman.com](photos.jackdeadman.com)
+[https://photos.jackdeadman.com](photos.jackdeadman.com)
 
 
 
