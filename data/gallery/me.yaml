@@ -1,7 +1,8 @@
 name: "Hello, It's me!"
 description: 'A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.'
 alt: 'A selfie of me taken by using the reflection of a scratched sphere.'
-tags: []
+tags:
+  - reflections
 slug: me
 meta:
   image:

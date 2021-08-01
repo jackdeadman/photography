@@ -1,7 +1,9 @@
 name: 'Reflections of Sheffield'
 description: 'A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.'
 alt: Reflection of show tree and building in a shop window. Can see some lights inside of the shop.
-tags: []
+tags:
+  - abstract
+  - reflections
 slug: window-reflection
 meta:
   image:

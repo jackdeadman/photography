@@ -1,7 +1,10 @@
 name: 'West Street at Night'
 description: 'One of my favourite types of photography is street photography. I like the story this one tells, West Street is often a chaotic place at night. Here we can see a gentleman looking into the street, observing the world. The other part of the frame hints at the chaos he could be looking at. But nothing is really clear, much like trying to comprehend the people of West Street!'
 alt: 'Black and White photo of a man looking into West Street. Taken from a reflection in a window.'
-tags: []
+tags:
+  - street
+  - reflections
+  - abstract
 slug: west-street
 meta:
   image:

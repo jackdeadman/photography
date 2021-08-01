@@ -1,6 +1,8 @@
 name: 'Steep Hill'
 description: 'I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.'
-tags: []
+tags:
+  - architecture
+  - outside
 alt: Picture of steep hill in Lincoln, with the Cathedral in the background.
 slug: steep-hill
 meta:

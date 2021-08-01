@@ -3,7 +3,10 @@
         {
             "name": "A Pretty Bee",
             "description": "A picture of a bee I took whilst walking around Sheffield. I like this photo as both the detail in the plant and the bee is really clear!",
-            "tags": [],
+            "tags": [
+                "nature",
+                "plant"
+            ],
             "alt": "A picture of a bee on a purple flower.",
             "slug": "bee",
             "meta": {
@@ -78,7 +81,10 @@
         {
             "name": "Catholic Cathedral",
             "description": "A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.",
-            "tags": [],
+            "tags": [
+                "architecture",
+                "inside"
+            ],
             "alt": "A picture of an empty cathedral with a man about to start a service in front of no one.",
             "slug": "church",
             "meta": {
@@ -153,7 +159,10 @@
         {
             "name": "Dandelion in the Wind",
             "description": "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes.",
-            "tags": [],
+            "tags": [
+                "nature",
+                "dark"
+            ],
             "alt": "Action shot of a danelion blowing in the wind.",
             "slug": "dark-dandelion",
             "meta": {
@@ -229,7 +238,9 @@
             "name": "Hello, It's me!",
             "description": "A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.",
             "alt": "A selfie of me taken by using the reflection of a scratched sphere.",
-            "tags": [],
+            "tags": [
+                "reflections"
+            ],
             "slug": "me",
             "meta": {
                 "image": {
@@ -303,7 +314,10 @@
         {
             "name": "Penguin of Weston Park",
             "description": "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin.",
-            "tags": [],
+            "tags": [
+                "nature",
+                "animal"
+            ],
             "slug": "pigeon",
             "alt": "A picture of a pigeon that looks like a penguin from the one it is positioned.",
             "meta": {
@@ -378,7 +392,10 @@
         {
             "name": "Steep Hill",
             "description": "I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.",
-            "tags": [],
+            "tags": [
+                "architecture",
+                "outside"
+            ],
             "alt": "Picture of steep hill in Lincoln, with the Cathedral in the background.",
             "slug": "steep-hill",
             "meta": {
@@ -458,7 +475,10 @@
             "name": "Sunset over Sheffield",
             "description": "Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!",
             "alt": "silhouette sunset picture over Sheffield.",
-            "tags": [],
+            "tags": [
+                "sunset",
+                "abstract"
+            ],
             "slug": "sunset",
             "meta": {
                 "image": {
@@ -533,7 +553,11 @@
             "name": "West Street at Night",
             "description": "One of my favourite types of photography is street photography. I like the story this one tells, West Street is often a chaotic place at night. Here we can see a gentleman looking into the street, observing the world. The other part of the frame hints at the chaos he could be looking at. But nothing is really clear, much like trying to comprehend the people of West Street!",
             "alt": "Black and White photo of a man looking into West Street. Taken from a reflection in a window.",
-            "tags": [],
+            "tags": [
+                "street",
+                "reflections",
+                "abstract"
+            ],
             "slug": "west-street",
             "meta": {
                 "image": {
@@ -608,7 +632,10 @@
             "name": "Reflections of Sheffield",
             "description": "A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.",
             "alt": "Reflection of show tree and building in a shop window. Can see some lights inside of the shop.",
-            "tags": [],
+            "tags": [
+                "abstract",
+                "reflections"
+            ],
             "slug": "window-reflection",
             "meta": {
                 "image": {
@@ -684,7 +711,10 @@
         "bee": {
             "name": "A Pretty Bee",
             "description": "A picture of a bee I took whilst walking around Sheffield. I like this photo as both the detail in the plant and the bee is really clear!",
-            "tags": [],
+            "tags": [
+                "nature",
+                "plant"
+            ],
             "alt": "A picture of a bee on a purple flower.",
             "slug": "bee",
             "meta": {
@@ -759,7 +789,10 @@
         "church": {
             "name": "Catholic Cathedral",
             "description": "A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.",
-            "tags": [],
+            "tags": [
+                "architecture",
+                "inside"
+            ],
             "alt": "A picture of an empty cathedral with a man about to start a service in front of no one.",
             "slug": "church",
             "meta": {
@@ -834,7 +867,10 @@
         "dark-dandelion": {
             "name": "Dandelion in the Wind",
             "description": "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes.",
-            "tags": [],
+            "tags": [
+                "nature",
+                "dark"
+            ],
             "alt": "Action shot of a danelion blowing in the wind.",
             "slug": "dark-dandelion",
             "meta": {
@@ -910,7 +946,9 @@
             "name": "Hello, It's me!",
             "description": "A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.",
             "alt": "A selfie of me taken by using the reflection of a scratched sphere.",
-            "tags": [],
+            "tags": [
+                "reflections"
+            ],
             "slug": "me",
             "meta": {
                 "image": {
@@ -984,7 +1022,10 @@
         "pigeon": {
             "name": "Penguin of Weston Park",
             "description": "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin.",
-            "tags": [],
+            "tags": [
+                "nature",
+                "animal"
+            ],
             "slug": "pigeon",
             "alt": "A picture of a pigeon that looks like a penguin from the one it is positioned.",
             "meta": {
@@ -1059,7 +1100,10 @@
         "steep-hill": {
             "name": "Steep Hill",
             "description": "I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.",
-            "tags": [],
+            "tags": [
+                "architecture",
+                "outside"
+            ],
             "alt": "Picture of steep hill in Lincoln, with the Cathedral in the background.",
             "slug": "steep-hill",
             "meta": {
@@ -1139,7 +1183,10 @@
             "name": "Sunset over Sheffield",
             "description": "Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!",
             "alt": "silhouette sunset picture over Sheffield.",
-            "tags": [],
+            "tags": [
+                "sunset",
+                "abstract"
+            ],
             "slug": "sunset",
             "meta": {
                 "image": {
@@ -1214,7 +1261,11 @@
             "name": "West Street at Night",
             "description": "One of my favourite types of photography is street photography. I like the story this one tells, West Street is often a chaotic place at night. Here we can see a gentleman looking into the street, observing the world. The other part of the frame hints at the chaos he could be looking at. But nothing is really clear, much like trying to comprehend the people of West Street!",
             "alt": "Black and White photo of a man looking into West Street. Taken from a reflection in a window.",
-            "tags": [],
+            "tags": [
+                "street",
+                "reflections",
+                "abstract"
+            ],
             "slug": "west-street",
             "meta": {
                 "image": {
@@ -1289,7 +1340,10 @@
             "name": "Reflections of Sheffield",
             "description": "A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.",
             "alt": "Reflection of show tree and building in a shop window. Can see some lights inside of the shop.",
-            "tags": [],
+            "tags": [
+                "abstract",
+                "reflections"
+            ],
             "slug": "window-reflection",
             "meta": {
                 "image": {
@@ -1360,5 +1414,21 @@
                 "tiny_jpg": "https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/window-reflection.jpg"
             }
         }
+    },
+    "filters": {
+        "tags": [
+            "0",
+            "1",
+            "2"
+        ],
+        "cameras": [
+            "Canon EOS M50",
+            "Canon PowerShot SX420 IS"
+        ],
+        "lenses": [
+            "EF-M18-150mm f/3.5-6.3 IS STM",
+            "4.3-180.6 mm",
+            "EF50mm f/1.8 II"
+        ]
     }
 }

@@ -1,7 +1,9 @@
 name: 'Sunset over Sheffield'
 description: 'Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!'
 alt: 'silhouette sunset picture over Sheffield.'
-tags: []
+tags:
+  - sunset
+  - abstract
 slug: sunset
 meta:
   image:
