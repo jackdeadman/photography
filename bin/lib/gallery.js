@@ -118,6 +118,7 @@ export class Gallery {
             name: '',
             description: '',
             alt: '',
+            published: new Date().toUTCString(),
             tags: [],
             slug: this.slug,
             meta,

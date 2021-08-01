@@ -18,7 +18,7 @@
     export let image;
     let fullscreen = false;
     $: scrollable = !fullscreen;
-	
+
 	const wheel = (node, options) => {
 		let { scrollable } = options;
             
@@ -163,10 +163,6 @@
         font-style: normal;
     }
 
-    span {
-        font-style: italic;
-    }
-
     .exif {
         margin-bottom: 1rem;
         font-size: 0.8rem;
@@ -197,11 +193,11 @@
 
     .pill {
         display: inline-block;
-        background-color: #555;
+        background-color: #222;
         border-top-right-radius: 5px;
         border-top-left-radius: 5px;
         padding: 4px 8px;
         margin-right: 3px;
-        color: #eee;
+        color: #ddd;
     }
 </style>
