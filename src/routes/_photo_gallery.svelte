@@ -6,7 +6,7 @@
         return `${day}/${month}/${year}`;
     }
 </script>
-<h2>Gallery</h2>
+<h2 class="title">Gallery</h2>
 
 <div class="container">
     {#each photos as photo (photo.slug)}
@@ -16,7 +16,7 @@
                     <picture>
                         <source srcset={photo.versions.small} type="image/webp">
                         <source srcset={photo.versions.small_jpg} type="image/jpeg"> 
-                        <img src={photo.versions.small_jpg} alt="Alt Text!">
+                        <img src={photo.versions.small_jpg} alt={photo.alt}>
                     </picture>
                 </figure>
             </a>
@@ -33,8 +33,11 @@
 
 <style>
 
-    h2 {
+    h2.title {
         margin: 0;
+    }
+
+    h2 {
         color: #888;
         font-size: 1.4em;
     }

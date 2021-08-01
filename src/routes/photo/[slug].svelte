@@ -56,12 +56,12 @@
 {#if fullscreen}
     <div class="fullscreen">
         <a href="#" on:click|preventDefault={() => {fullscreen=false}}></a>
-        <img src={image.versions.med} alt="">
+        <img src={image.versions.med} alt={image.alt}>
     </div>
 {/if}
 <div class="container">
     <figure>
-        <img on:click|preventDefault={() => {fullscreen=true}} src={image.versions.med} alt="">
+        <img on:click|preventDefault={() => {fullscreen=true}} src={image.versions.med} alt={image.alt}>
     </figure>
 
     <div class="info">
