@@ -30,7 +30,11 @@
 
     textarea {
         font-size: 1rem;
-        width: 400px;
+        width: 280px;
         min-height: 400px;
+    }
+
+    button {
+      padding: 5px 10px;
     }
 </style>
