@@ -58,7 +58,7 @@ meta:
   interoperability: {}
   makernote: {}
 versions:
-  full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/church.webp
+  full: https://static.photos.jackdeadman.com/gallery/full/church.webp
   med: >-
     https://static.photos.jackdeadman.com/gallery/med/church.webp
   small: >-

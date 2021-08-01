@@ -61,7 +61,7 @@ meta:
   makernote: {}
 versions:
   full: >-
-    https://jack-deadman-photography.s3.amazonaws.com/gallery/full/west-street.webp
+    https://static.photos.jackdeadman.com/gallery/full/west-street.webp
   med: >-
     https://static.photos.jackdeadman.com/gallery/med/west-street.webp
   small: >-
