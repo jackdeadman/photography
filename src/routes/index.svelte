@@ -1,15 +1,13 @@
 <script context="module">
 
-    export async function load({ page, fetch, context}) {
-
+    export async function load({fetch}) {
         const url = '/api/photos.json';
         const res = await fetch(url);
 
         if (res.ok) {
             const photos = await res.json();
             return {
-                props: { photos },
-                context: { photos }
+                props: { photos }
             }
         }
 

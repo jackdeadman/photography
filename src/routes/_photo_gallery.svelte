@@ -2,7 +2,10 @@
 
     import { goto } from '$app/navigation';
     import { page } from '$app/stores';
+    import PhotoGallery from './_gallery_card.svelte';
     export let photos;
+
+    let element;
 
     function formatDate(time) {
         const [year, month, day] = time.split(' ')[0].split(':');
@@ -47,48 +50,32 @@
         goto($page.path + '?' + query.toString())
     }
 
-    $: tag = $page.query.get('tag')
+    $: tag = $page.query.get('tag');
+    let photosToShow;
+
+    $: {
+        if (tag) {
+            photosToShow = photos.filter((photo) => {
+                return photo.tags.includes(tag);
+            });
+        } else {
+            photosToShow = photos;
+        }
+    };
 
 </script>
 <h2 class="title">Gallery
     {#if tag}
     of: 
     <ul class="tags inline">
-        <li class="active"><a on:click|preventDefault={() => setTag(tag)} href="#">{formatTag(tag)}</a></li>
+        <li class="active"><a href={hasTag(tag, $page.query) ? "/" : `?tag=${tag}`}>{formatTag(tag)}</a></li>
     </ul>
     {/if}
 </h2>
 
-<div class="container">
-    {#each photos as photo (photo.slug)}
-        {#if !$page.query.get('tag') || photo.tags.includes($page.query.get('tag'))}
-        <div class="img-card">
-            <div>
-                <a sveltekit:prefetch href={`/photo/${photo.slug}`}>
-                    <figure>
-                        <picture>
-                            <source srcset={photo.versions.small} type="image/webp">
-                            <source srcset={photo.versions.small_jpg} type="image/jpeg"> 
-                            <img width={photo.dims.small.width} height={photo.dims.small.height} src={photo.versions.small_jpg} alt={photo.alt}>
-                        </picture>
-                    </figure>
-                </a>
-            </div>
-            
-
-            <div class="info">
-                <h2><a href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
-                <p>{photo.description}</p>
-                <date>{formatDate(photo.meta.exif.DateTimeOriginal)}</date>
-
-                <ul class="tags">
-                    {#each photo.tags as tag (tag)}
-                        <li class:active={hasTag(tag, $page.query)}><a on:click|preventDefault={() => setTag(tag)} href="#">{formatTag(tag)}</a></li>
-                    {/each}
-                </ul>
-            </div>
-        </div>
-        {/if}
+<div class="container" bind:this={element}>
+    {#each photosToShow as photo, i (photo.slug)}
+        <PhotoGallery eagar={i<3 || (element && element.getBoundingClientRect().top < 0)} photo={photo}></PhotoGallery>
     {/each}
 </div>
 
