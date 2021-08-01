@@ -75,7 +75,7 @@
 
 <div class="container" bind:this={element}>
     {#each photosToShow as photo, i (photo.slug)}
-        <PhotoGallery eagar={i<3 || (element && element.getBoundingClientRect().top < 0)} photo={photo}></PhotoGallery>
+        <PhotoGallery eagar={i<5 || (element && element.getBoundingClientRect().top < 0)} photo={photo}></PhotoGallery>
     {/each}
 </div>
 
