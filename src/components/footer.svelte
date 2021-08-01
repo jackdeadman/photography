@@ -1,5 +1,5 @@
 <p>
-If you like to use any of these photos please <a href="/contact">contact me.</a> &copy;Jack Deadman
+If you would like to use any of these photos please <a href="/contact">contact me.</a> &copy;Jack Deadman
 </p>
 
 
