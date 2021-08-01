@@ -34,7 +34,7 @@ try {
         output.filters.tags = Array.from(output.filters.tags);
         output.filters.lenses = Array.from(output.filters.lenses);
 
-        fs.writeFileSync('src/lib/photos.json', JSON.stringify(output, null, 4));
+        fs.writeFileSync('src/lib/photos.json', JSON.stringify(output));
 	});
 } catch (e) {
 	console.log(e);
