@@ -24,6 +24,7 @@ try {
                 output.filters.tags.add(tag);
             }
 
+            console.log(match)
             output.filters.cameras.add(doc.meta.image.Model)
             output.filters.lenses.add(doc.meta.exif.LensModel)
             output.photos.push(doc);

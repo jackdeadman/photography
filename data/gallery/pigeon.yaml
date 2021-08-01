@@ -13,7 +13,7 @@ meta:
     ModifyDate: 2021:07:31 08:50:52
     ExifOffset: 138
   thumbnail: {}
-  e_gxif:
+  exif:
     ExposureTime: 0.001
     FNumber: 6.3
     ExposureProgram: 1
