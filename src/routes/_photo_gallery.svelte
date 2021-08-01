@@ -47,8 +47,17 @@
         goto($page.path + '?' + query.toString())
     }
 
+    $: tag = $page.query.get('tag')
+
 </script>
-<h2 class="title">Gallery</h2>
+<h2 class="title">Gallery
+    {#if tag}
+    of: 
+    <ul class="tags inline">
+        <li class="active"><a on:click|preventDefault={() => setTag(tag)} href="#">{formatTag(tag)}</a></li>
+    </ul>
+    {/if}
+</h2>
 
 <div class="container">
     {#each photos as photo (photo.slug)}
@@ -89,6 +98,18 @@
     .tags {
         margin: 5px 0;
         padding: 0;
+    }
+
+    .tags.inline {
+        display: inline-block;
+        margin: 0;
+        position: absolute;
+        margin-top: -5px;
+        margin-left: 10px;
+    }
+
+    .tags.inline li {
+        margin: 0;
     }
     
     .tags a {
