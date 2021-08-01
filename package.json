@@ -2,7 +2,7 @@
   "name": "~TODO~",
   "version": "0.0.1",
   "scripts": {
-    "dev": "svelte-kit dev",
+    "dev": "npm run build-json && svelte-kit dev",
     "build-json": "node ./bin/compile-gallery-json.js",
     "build": "npm run build-json && svelte-kit build",
     "preview": "svelte-kit preview",
