@@ -3,6 +3,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto&display=swap" rel="stylesheet" >
 
+    <meta name="description" content="A mini-blog / gallery showcasing show pictures taken by Jack Deadman.">
+
 
     <link
         type="application/atom+xml"
