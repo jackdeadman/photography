@@ -27,6 +27,7 @@
 
     h1 {
         margin-bottom: 0;
+        font-size: 1.8em;
     }
 
     .social img {

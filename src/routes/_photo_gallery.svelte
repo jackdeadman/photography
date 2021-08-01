@@ -6,6 +6,7 @@
         return `${day}/${month}/${year}`;
     }
 </script>
+<h2>Gallery</h2>
 
 <div class="container">
     {#each photos as photo (photo.slug)}
@@ -31,6 +32,12 @@
 
 
 <style>
+
+    h2 {
+        margin: 0;
+        color: #888;
+        font-size: 1.4em;
+    }
 
     h2 a {
         text-decoration: none;

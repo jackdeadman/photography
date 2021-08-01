@@ -17,13 +17,38 @@
 <script>
     export let image;
     let fullscreen = false;
+    $: scrollable = !fullscreen;
+	
+	const wheel = (node, options) => {
+		let { scrollable } = options;
+            
+            const handler = e => {
+                if (!scrollable) e.preventDefault();
+            };
+            
+            node.addEventListener('wheel', handler, { passive: false });
+            
+            return {
+                update(options) {
+                    scrollable = options.scrollable;
+                },
+                destroy() {
+                    node.removeEventListener('wheel', handler, { passive: false });
+                }
+            };
+    };
 </script>
 
+<svelte:window use:wheel={{scrollable}} />
 
 <svelte:head>
     <meta property="og:image" content={image.versions.med} />
     <meta property="og:description" content={image.description} />
     <meta property="og:title" content={image.title} />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@jackdeadman96" />
+    <meta name="twitter:creator" content="@jackdeadman96" />
 </svelte:head>
 
 <h2><a sveltekit:prefetch href="/">Gallery</a> / {image.name}</h2>
