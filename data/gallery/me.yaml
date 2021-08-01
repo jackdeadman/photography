@@ -60,16 +60,16 @@ meta:
 versions:
   full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/me.webp
   med: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/me.webp
+    https://static.photos.jackdeadman.com/gallery/med/me.webp
   small: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/me.webp
+    https://static.photos.jackdeadman.com/gallery/small/me.webp
   tiny: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/me.webp
+    https://static.photos.jackdeadman.com/gallery/tiny/me.webp
   full_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/me.jpg
+    https://static.photos.jackdeadman.com/gallery/full_jpg/me.jpg
   med_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/me.jpg
+    https://static.photos.jackdeadman.com/gallery/med_jpg/me.jpg
   small_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/me.jpg
+    https://static.photos.jackdeadman.com/gallery/small_jpg/me.jpg
   tiny_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/me.jpg
+    https://static.photos.jackdeadman.com/gallery/tiny_jpg/me.jpg

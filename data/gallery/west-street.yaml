@@ -63,16 +63,16 @@ versions:
   full: >-
     https://jack-deadman-photography.s3.amazonaws.com/gallery/full/west-street.webp
   med: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/west-street.webp
+    https://static.photos.jackdeadman.com/gallery/med/west-street.webp
   small: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/west-street.webp
+    https://static.photos.jackdeadman.com/gallery/small/west-street.webp
   tiny: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/west-street.webp
+    https://static.photos.jackdeadman.com/gallery/tiny/west-street.webp
   full_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/west-street.jpg
+    https://static.photos.jackdeadman.com/gallery/full_jpg/west-street.jpg
   med_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/west-street.jpg
+    https://static.photos.jackdeadman.com/gallery/med_jpg/west-street.jpg
   small_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/west-street.jpg
+    https://static.photos.jackdeadman.com/gallery/small_jpg/west-street.jpg
   tiny_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/west-street.jpg
+    https://static.photos.jackdeadman.com/gallery/tiny_jpg/west-street.jpg

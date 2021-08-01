@@ -60,16 +60,16 @@ meta:
 versions:
   full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/sunset.webp
   med: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/sunset.webp
+    https://static.photos.jackdeadman.com/gallery/med/sunset.webp
   small: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/sunset.webp
+    https://static.photos.jackdeadman.com/gallery/small/sunset.webp
   tiny: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/sunset.webp
+    https://static.photos.jackdeadman.com/gallery/tiny/sunset.webp
   full_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/sunset.jpg
+    https://static.photos.jackdeadman.com/gallery/full_jpg/sunset.jpg
   med_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/sunset.jpg
+    https://static.photos.jackdeadman.com/gallery/med_jpg/sunset.jpg
   small_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/sunset.jpg
+    https://static.photos.jackdeadman.com/gallery/small_jpg/sunset.jpg
   tiny_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/sunset.jpg
+    https://static.photos.jackdeadman.com/gallery/tiny_jpg/sunset.jpg

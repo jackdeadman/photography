@@ -61,16 +61,16 @@ versions:
   full: >-
     https://jack-deadman-photography.s3.amazonaws.com/gallery/full/window-reflection.webp
   med: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/window-reflection.webp
+    https://static.photos.jackdeadman.com/gallery/med/window-reflection.webp
   small: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/window-reflection.webp
+    https://static.photos.jackdeadman.com/gallery/small/window-reflection.webp
   tiny: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/window-reflection.webp
+    https://static.photos.jackdeadman.com/gallery/tiny/window-reflection.webp
   full_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/window-reflection.jpg
+    https://static.photos.jackdeadman.com/gallery/full_jpg/window-reflection.jpg
   med_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/window-reflection.jpg
+    https://static.photos.jackdeadman.com/gallery/med_jpg/window-reflection.jpg
   small_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/window-reflection.jpg
+    https://static.photos.jackdeadman.com/gallery/small_jpg/window-reflection.jpg
   tiny_jpg: >-
-    https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/window-reflection.jpg
+    https://static.photos.jackdeadman.com/gallery/tiny_jpg/window-reflection.jpg
