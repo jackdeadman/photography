@@ -68,6 +68,10 @@
             display: block;
             margin-bottom: 4rem;
         }
+
+        h2:not(.title) {
+            margin-top: 1rem !important;
+        }
     }
 
     figure {
