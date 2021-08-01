@@ -18,7 +18,12 @@ const renderXmlRssFeed = (posts) => `<?xml version="1.0" encoding="UTF-8" ?>
         (post) => `
     <item>
       <title><![CDATA[${post.name}]]></title>
-      <description><![CDATA[${post.description}]]></description>
+      <description><![CDATA[
+            ${post.description}
+            <img src="${post.versions.med_jpg}" alt="${post.alt}" />
+        ]]>
+        
+        </description>
       <link>${siteUrl}/photo/${post.slug}</link>
       <guid isPermaLink="true">${siteUrl}/photo/${post.slug}</guid>
       <pubDate>${post.published || '"Sat, 31 Jul 2021 12:00:00 GMT"'}</pubDate>
