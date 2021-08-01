@@ -66,19 +66,23 @@
 
     <div class="info">
         <p>{image.description}</p>
-
-        <ul class="exif">
-            <li><b>{image.meta.image.Model}</b></li>
-            <li><b>{image.meta.exif.LensModel}</b></li>
-
-            <li>F/{image.meta.exif.FNumber}</li>
-            <li>ISO {image.meta.exif.ISO}</li>
-            <li>1/{1 / image.meta.exif.ExposureTime}</li>
-            <li>{image.meta.exif.FocalLength}mm</li>
-        </ul>
-        <a href={image.versions.full_jpg}>Download image</a>
     </div>
 </div>
+
+<span class="meta-name">Gear</span>
+        <ul class="exif">
+            <li><span class="pill">Camera</span><b>{image.meta.image.Model}</b></li>
+            <li><span class="pill">Lens</span><b>{image.meta.exif.LensModel}</b></li>
+        </ul>
+
+        <span class="meta-name">Settings</span>
+        <ul class="exif smaller">
+            <li><span class="pill">F-Stop</span>F/{image.meta.exif.FNumber}</li>
+            <li><span class="pill">ISO</span>{image.meta.exif.ISO}</li>
+            <li><span class="pill">Shutter Speed</span>1/{1 / image.meta.exif.ExposureTime}</li>
+            <li><span class="pill">Focal Length</span>{image.meta.exif.FocalLength}mm</li>
+        </ul>
+        <a href={image.versions.full_jpg}>Download image</a>
 
 <style>
 
@@ -132,12 +136,16 @@
     .container {
         display: grid;
         grid-template-columns: minmax(auto, max-content) 300px;
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
     }
 
     @media only screen and (max-width: 800px) {
         .container {
             display: block;
+        }
+
+        .info {
+            margin: 0 !important;
         }
     }
 
@@ -150,9 +158,19 @@
         width: 100%;
     }
 
-    .exif {
-        margin: 1rem 0;
+    span.meta-name {
+        font-weight: bold;
+        font-style: normal;
     }
+
+    span {
+        font-style: italic;
+    }
+
+    .exif {
+        margin-bottom: 1rem;
+    }
+
 
     img {
         cursor: pointer;
@@ -169,7 +187,20 @@
     }
 
     ul li {
+        display: inline-block;
         list-style: none;
-        margin: 0;
+        margin: 5px 0;
+        margin-right: 10px;
+        border-bottom: 1px solid #555;
+    }
+
+    .pill {
+        display: inline-block;
+        background-color: #555;
+        border-top-right-radius: 5px;
+        border-top-left-radius: 5px;
+        padding: 4px 8px;
+        margin-right: 3px;
+        color: #eee;
     }
 </style>

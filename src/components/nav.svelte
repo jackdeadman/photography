@@ -21,6 +21,8 @@
 
     .social {
         margin: 0;
+        position: relative;
+        top: 12px;
         padding: 0;
         list-style: none;
     }
@@ -33,6 +35,10 @@
     .social img {
         width: 40px;
         height: 40px;
+    }
+
+    .social img:hover {
+        opacity: 0.8;
     }
 
     h1 .me {
@@ -49,7 +55,6 @@
     a {
         color: #000;
         text-decoration: none;
-        padding-right: 10px;
     }
 
     a:hover {

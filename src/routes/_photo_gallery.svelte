@@ -60,7 +60,7 @@
         grid-template-columns: 2fr 1fr;
         grid-gap: 2rem;
         max-width: 900px;
-        margin: 1rem 0;
+        margin: 1rem 0 2rem 0;
     }
 
     @media only screen and (max-width: 600px) {
@@ -86,5 +86,9 @@
         text-align: right;
         width: 100%;
         display: block;
+    }
+
+    .info h2 {
+        margin-top: 0;
     }
 </style>
