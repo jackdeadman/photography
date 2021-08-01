@@ -2,13 +2,14 @@
 
 Welcome to my repository for my photography website. It is a site built with Svelte-kit. For the live site please visit:
 
-photos.jackdeadman.com
+
+[photos.jackdeadman.com](photos.jackdeadman.com)
 
 
 
 ## Developing
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+Once you've cloned the project and installed dependencies with `npm install`, start a development server:
 
 ```bash
 npm run dev
@@ -17,12 +18,23 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
 
-Before creating a production version of your app, install an [adapter](https://kit.svelte.dev/docs#adapters) for your target environment. Then:
+## Publishing a new photo
+
+Copy the `example_env.sh` to `env.sh` and fill in the credentials as appropriate in order to upload files to AWS.
+
+To create a new post and generate various versions of the images run.
 
 ```bash
-npm run build
+node bin/upload.sh [slug] [path_to_image]
 ```
 
-> You can preview the built app with `npm run preview`, regardless of whether you installed an adapter. This should _not_ be used to serve your app in production.
+Where [slug] is the name that will be used in the URL of the post. The image that is being uploaded needs to contain EXIF information!
+
+Once the images have been uploaded to AWS a yaml file will be created in `data/gallery/[slug],yaml`. Edit this to finish the post (i.e., add a name, description, alt and tags). To then view this new post in development run
+
+```bash
+npm run build-json
+```
+
+To publish the updates onto the web, simply push to the `main` branch.
