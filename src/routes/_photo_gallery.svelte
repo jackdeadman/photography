@@ -69,7 +69,7 @@
                         <picture>
                             <source srcset={photo.versions.small} type="image/webp">
                             <source srcset={photo.versions.small_jpg} type="image/jpeg"> 
-                            <img src={photo.versions.small_jpg} alt={photo.alt}>
+                            <img width={photo.dims.small.width} height={photo.dims.small.height} src={photo.versions.small_jpg} alt={photo.alt}>
                         </picture>
                     </figure>
                 </a>
@@ -185,6 +185,7 @@
     figure img {
         display: block;
         width: 100%;
+        height: auto;
     }
 
     date {

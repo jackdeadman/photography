@@ -56,12 +56,12 @@
 {#if fullscreen}
     <div class="fullscreen">
         <a href="#" on:click|preventDefault={() => {fullscreen=false}}></a>
-        <img src={image.versions.med} alt={image.alt}>
+        <img width={image.dims.med.width} height={image.dims.med.height} src={image.versions.med} alt={image.alt}>
     </div>
 {/if}
 <div class="container">
     <figure>
-        <img on:click|preventDefault={() => {fullscreen=true}} src={image.versions.med} alt={image.alt}>
+        <img width={image.dims.med.width} height={image.dims.med.height} on:click|preventDefault={() => {fullscreen=true}} src={image.versions.med} alt={image.alt}>
     </figure>
 
     <div class="info">
@@ -173,6 +173,7 @@
         cursor: pointer;
         display: block;
         width: auto;
+        height: auto;
         max-width: 100%;
         max-height: 80vh;
         margin: 1rem 0;

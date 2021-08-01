@@ -1,78 +1,100 @@
-name: 'West Street at Night'
-description: 'One of my favourite types of photography is street photography. I like the story this one tells, West Street is often a chaotic place at night. Here we can see a gentleman looking into the street, observing the world. The other part of the frame hints at the chaos he could be looking at. But nothing is really clear, much like trying to comprehend the people of West Street!'
-alt: 'Black and White photo of a man looking into West Street. Taken from a reflection in a window.'
-tags:
-  - street
-  - reflections
-  - abstract
-  - black and white
-slug: west-street
+alt: Black and White photo of a man looking into West Street. Taken from a reflection
+  in a window.
+description: One of my favourite types of photography is street photography. I like
+  the story this one tells, West Street is often a chaotic place at night. Here we
+  can see a gentleman looking into the street, observing the world. The other part
+  of the frame hints at the chaos he could be looking at. But nothing is really clear,
+  much like trying to comprehend the people of West Street!
+dims:
+  full:
+    height: 4000
+    width: 6000
+  full_jpg:
+    height: 4000
+    width: 6000
+  med:
+    height: 667
+    width: 1000
+  med_jpg:
+    height: 667
+    width: 1000
+  small:
+    height: 333
+    width: 500
+  small_jpg:
+    height: 333
+    width: 500
+  tiny:
+    height: 67
+    width: 100
+  tiny_jpg:
+    height: 67
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 15:59:15
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 1.695994
+    ColorSpace: 65535
+    CreateDate: 2021:07:28 23:17:38
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:28 23:17:38
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.02
     FNumber: 1.8
-    ExposureProgram: 1
-    ISO: 1600
-    SensitivityType: 2
-    RecommendedExposureIndex: 1600
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:28 23:17:38
-    CreateDate: 2021:07:28 23:17:38
-    ShutterSpeedValue: 5.643856
-    ApertureValue: 1.695994
-    ExposureCompensation: 0
-    MaxApertureValue: 1.75
-    MeteringMode: 5
     Flash: 0
     FocalLength: 50
-    SubSecTimeOriginal: '20'
-    SubSecTimeDigitized: '20'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 2
     FocalPlaneXResolution: 6514.657980456026
     FocalPlaneYResolution: 6734.006734006734
-    FocalPlaneResolutionUnit: 2
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 1600
     LensInfo:
-      - 50
-      - 50
-      - null
-      - null
+    - 50
+    - 50
+    - null
+    - null
     LensModel: EF50mm f/1.8 II
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 1.75
+    MeteringMode: 5
+    RecommendedExposureIndex: 1600
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 5.643856
+    SubSecTimeDigitized: '20'
+    SubSecTimeOriginal: '20'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 15:59:15
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: West Street at Night
+slug: west-street
+tags:
+- street
+- reflections
+- abstract
+- black and white
 versions:
-  full: >-
-    https://static.photos.jackdeadman.com/gallery/full/west-street.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/west-street.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/west-street.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/west-street.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/west-street.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/west-street.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/west-street.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/west-street.jpg
+  full: https://static.photos.jackdeadman.com/gallery/full/west-street.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/west-street.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/west-street.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/west-street.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/west-street.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/west-street.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/west-street.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/west-street.jpg

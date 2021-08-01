@@ -1,76 +1,94 @@
-name: 'Dandelion in the Wind'
-description: "It's not really in the wind! I had my friend blow it whilst I took many photos. It was fun experimenting with different planned scenes."
-tags:
-  - nature
-  - dark
-alt: 'Action shot of a danelion blowing in the wind.'
-slug: dark-dandelion
+alt: Action shot of a danelion blowing in the wind.
+description: It's not really in the wind! I had my friend blow it whilst I took many
+  photos. It was fun experimenting with different planned scenes.
+dims:
+  full:
+    height: 2380
+    width: 3572
+  full_jpg:
+    height: 2380
+    width: 3572
+  med:
+    height: 666
+    width: 1000
+  med_jpg:
+    height: 666
+    width: 1000
+  small:
+    height: 333
+    width: 500
+  small_jpg:
+    height: 333
+    width: 500
+  tiny:
+    height: 67
+    width: 100
+  tiny_jpg:
+    height: 67
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 08:08:13
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 5.310704
+    ColorSpace: 65535
+    CreateDate: 2021:07:24 17:01:55
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:24 17:01:55
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.00025
     FNumber: 6.3
-    ExposureProgram: 1
-    ISO: 800
-    SensitivityType: 2
-    RecommendedExposureIndex: 800
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:24 17:01:55
-    CreateDate: 2021:07:24 17:01:55
-    ShutterSpeedValue: 11.965784
-    ApertureValue: 5.310704
-    ExposureCompensation: 0
-    MaxApertureValue: 5.25
-    MeteringMode: 5
     Flash: 0
     FocalLength: 74
-    SubSecTimeOriginal: '29'
-    SubSecTimeDigitized: '29'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 3
     FocalPlaneXResolution: 2789.976287841797
     FocalPlaneYResolution: 2789.976287841797
-    FocalPlaneResolutionUnit: 3
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 800
     LensInfo:
-      - 18
-      - 150
-      - null
-      - null
+    - 18
+    - 150
+    - null
+    - null
     LensModel: EF-M18-150mm f/3.5-6.3 IS STM
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 5.25
+    MeteringMode: 5
+    RecommendedExposureIndex: 800
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 11.965784
+    SubSecTimeDigitized: '29'
+    SubSecTimeOriginal: '29'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 08:08:13
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Dandelion in the Wind
+slug: dark-dandelion
+tags:
+- nature
+- dark
 versions:
-  full: >-
-    https://static.photos.jackdeadman.com/gallery/full/dark-dandelion.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/dark-dandelion.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/dark-dandelion.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/dark-dandelion.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/dark-dandelion.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/dark-dandelion.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/dark-dandelion.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/dark-dandelion.jpg
+  full: https://static.photos.jackdeadman.com/gallery/full/dark-dandelion.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/dark-dandelion.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/dark-dandelion.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/dark-dandelion.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/dark-dandelion.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/dark-dandelion.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/dark-dandelion.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/dark-dandelion.jpg

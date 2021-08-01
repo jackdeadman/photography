@@ -1,79 +1,99 @@
-name: 'Steep Hill'
-description: 'I like the composition I put together with this one. The Cathedral is a clear subject and it is beautiful! But there is also lots of foreground interest. The older ladies, the photographer in front and the lads walking up the hill, all tell little stories.'
-tags:
-  - architecture
-  - outside
-  - street
 alt: Picture of steep hill in Lincoln, with the Cathedral in the background.
-slug: steep-hill
+description: I like the composition I put together with this one. The Cathedral is
+  a clear subject and it is beautiful! But there is also lots of foreground interest.
+  The older ladies, the photographer in front and the lads walking up the hill, all
+  tell little stories.
+dims:
+  full:
+    height: 5152
+    width: 3864
+  full_jpg:
+    height: 5152
+    width: 3864
+  med:
+    height: 1333
+    width: 1000
+  med_jpg:
+    height: 1333
+    width: 1000
+  small:
+    height: 667
+    width: 500
+  small_jpg:
+    height: 667
+    width: 500
+  tiny:
+    height: 133
+    width: 100
+  tiny_jpg:
+    height: 133
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon PowerShot SX420 IS
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 08:49:28
-    ExifOffset: 150
-  thumbnail: {}
   exif:
+    ApertureValue: 4.643856
+    ColorSpace: 65535
+    CreateDate: 2021:07:16 11:26:10
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:16 11:26:10
+    DigitalZoomRatio: 1
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 0
     ExposureTime: 0.0025
     FNumber: 5
-    ISO: 100
-    SensitivityType: 4
-    ExifVersion:
-      type: Buffer
+    FileSource:
       data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:16 11:26:10
-    CreateDate: 2021:07:16 11:26:10
-    ShutterSpeedValue: 8.643856
-    ApertureValue: 4.643856
-    ExposureCompensation: 0
-    MaxApertureValue: 4.65625
-    MeteringMode: 5
+      - 3
+      type: Buffer
     Flash: 16
     FocalLength: 18.383
-    SubSecTimeOriginal: '67'
-    SubSecTimeDigitized: '67'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 2
     FocalPlaneXResolution: 21201.646090534978
     FocalPlaneYResolution: 21114.754098360656
-    FocalPlaneResolutionUnit: 2
-    SensingMethod: 2
-    FileSource:
-      type: Buffer
-      data:
-        - 3
-    CustomRendered: 0
-    ExposureMode: 0
-    WhiteBalance: 1
-    DigitalZoomRatio: 1
-    SceneCaptureType: 0
+    ISO: 100
     LensInfo:
-      - 4.3
-      - 180.6
-      - null
-      - null
+    - 4.3
+    - 180.6
+    - null
+    - null
     LensModel: 4.3-180.6 mm
+    MaxApertureValue: 4.65625
+    MeteringMode: 5
+    SceneCaptureType: 0
+    SensingMethod: 2
+    SensitivityType: 4
+    ShutterSpeedValue: 8.643856
+    SubSecTimeDigitized: '67'
+    SubSecTimeOriginal: '67'
+    WhiteBalance: 1
   gps: {}
+  image:
+    ExifOffset: 150
+    Make: Canon
+    Model: Canon PowerShot SX420 IS
+    ModifyDate: 2021:07:31 08:49:28
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Steep Hill
+slug: steep-hill
+tags:
+- architecture
+- outside
+- street
 versions:
-  full: >-
-    https://static.photos.jackdeadman.com/gallery/full/steep-hill.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/steep-hill.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/steep-hill.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/steep-hill.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/steep-hill.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/steep-hill.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/steep-hill.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/steep-hill.jpg
+  full: https://static.photos.jackdeadman.com/gallery/full/steep-hill.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/steep-hill.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/steep-hill.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/steep-hill.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/steep-hill.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/steep-hill.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/steep-hill.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/steep-hill.jpg

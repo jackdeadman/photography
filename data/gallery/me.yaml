@@ -1,75 +1,93 @@
-name: "Hello, It's me!"
-description: 'A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.'
-alt: 'A selfie of me taken by using the reflection of a scratched sphere.'
-tags:
-  - reflections
-  - abstract
-slug: me
+alt: A selfie of me taken by using the reflection of a scratched sphere.
+description: A cheeky, hmm selfie? Welcome to my photography gallery/mini blog website.
+dims:
+  full:
+    height: 4000
+    width: 6000
+  full_jpg:
+    height: 4000
+    width: 6000
+  med:
+    height: 667
+    width: 1000
+  med_jpg:
+    height: 667
+    width: 1000
+  small:
+    height: 333
+    width: 500
+  small_jpg:
+    height: 333
+    width: 500
+  tiny:
+    height: 67
+    width: 100
+  tiny_jpg:
+    height: 67
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 15:51:49
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 4.643856
+    ColorSpace: 65535
+    CreateDate: 2021:07:21 10:38:49
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:21 10:38:49
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.003125
     FNumber: 5
-    ExposureProgram: 1
-    ISO: 100
-    SensitivityType: 2
-    RecommendedExposureIndex: 100
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:21 10:38:49
-    CreateDate: 2021:07:21 10:38:49
-    ShutterSpeedValue: 8.321928
-    ApertureValue: 4.643856
-    ExposureCompensation: 0
-    MaxApertureValue: 4.625
-    MeteringMode: 5
     Flash: 0
     FocalLength: 40
-    SubSecTimeOriginal: '21'
-    SubSecTimeDigitized: '21'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 3
     FocalPlaneXResolution: 2789.976287841797
     FocalPlaneYResolution: 2789.976287841797
-    FocalPlaneResolutionUnit: 3
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 100
     LensInfo:
-      - 18
-      - 150
-      - null
-      - null
+    - 18
+    - 150
+    - null
+    - null
     LensModel: EF-M18-150mm f/3.5-6.3 IS STM
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 4.625
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 8.321928
+    SubSecTimeDigitized: '21'
+    SubSecTimeOriginal: '21'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 15:51:49
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Hello, It's me!
+slug: me
+tags:
+- reflections
+- abstract
 versions:
   full: https://static.photos.jackdeadman.com/gallery/full/me.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/me.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/me.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/me.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/me.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/me.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/me.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/me.jpg
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/me.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/me.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/me.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/me.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/me.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/me.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/me.jpg

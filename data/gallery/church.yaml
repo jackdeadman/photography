@@ -1,75 +1,96 @@
-name: 'Catholic Cathedral'
-description: 'A picture of a Cathedral near Fargate in Sheffield. I like the story it tells with a service about to begin and a sign of the times. If you look closely you can see the man is wearing a mask and that the building is empty.'
-tags:
-  - architecture
-  - inside
-alt: "A picture of an empty cathedral with a man about to start a service in front of no one."
-slug: church
+alt: A picture of an empty cathedral with a man about to start a service in front
+  of no one.
+description: A picture of a Cathedral near Fargate in Sheffield. I like the story
+  it tells with a service about to begin and a sign of the times. If you look closely
+  you can see the man is wearing a mask and that the building is empty.
+dims:
+  full:
+    height: 5235
+    width: 3490
+  full_jpg:
+    height: 5235
+    width: 3490
+  med:
+    height: 1500
+    width: 1000
+  med_jpg:
+    height: 1500
+    width: 1000
+  small:
+    height: 750
+    width: 500
+  small_jpg:
+    height: 750
+    width: 500
+  tiny:
+    height: 150
+    width: 100
+  tiny_jpg:
+    height: 150
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 08:48:24
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 4.643856
+    ColorSpace: 65535
+    CreateDate: 2021:07:21 11:35:31
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:21 11:35:31
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.03333333333333333
     FNumber: 5
-    ExposureProgram: 1
-    ISO: 100
-    SensitivityType: 2
-    RecommendedExposureIndex: 100
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:21 11:35:31
-    CreateDate: 2021:07:21 11:35:31
-    ShutterSpeedValue: 4.906891
-    ApertureValue: 4.643856
-    ExposureCompensation: 0
-    MaxApertureValue: 4.5
-    MeteringMode: 5
     Flash: 0
     FocalLength: 32
-    SubSecTimeOriginal: '77'
-    SubSecTimeDigitized: '77'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 3
     FocalPlaneXResolution: 2789.976287841797
     FocalPlaneYResolution: 2789.976287841797
-    FocalPlaneResolutionUnit: 3
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 100
     LensInfo:
-      - 18
-      - 150
-      - null
-      - null
+    - 18
+    - 150
+    - null
+    - null
     LensModel: EF-M18-150mm f/3.5-6.3 IS STM
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 4.5
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 4.906891
+    SubSecTimeDigitized: '77'
+    SubSecTimeOriginal: '77'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 08:48:24
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Catholic Cathedral
+slug: church
+tags:
+- architecture
+- inside
 versions:
   full: https://static.photos.jackdeadman.com/gallery/full/church.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/church.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/church.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/church.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/church.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/church.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/church.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/church.jpg
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/church.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/church.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/church.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/church.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/church.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/church.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/church.jpg

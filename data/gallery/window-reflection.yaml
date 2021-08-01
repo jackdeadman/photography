@@ -1,76 +1,95 @@
-name: 'Reflections of Sheffield'
-description: 'A fun play with reflections. The lights in the shop are pretty cool and with a bit of editing the reflections in the windows came out really clearly.'
-alt: Reflection of show tree and building in a shop window. Can see some lights inside of the shop.
-tags:
-  - abstract
-  - reflections
-slug: window-reflection
+alt: Reflection of show tree and building in a shop window. Can see some lights inside
+  of the shop.
+description: A fun play with reflections. The lights in the shop are pretty cool and
+  with a bit of editing the reflections in the windows came out really clearly.
+dims:
+  full:
+    height: 2895
+    width: 4343
+  full_jpg:
+    height: 2895
+    width: 4343
+  med:
+    height: 667
+    width: 1000
+  med_jpg:
+    height: 667
+    width: 1000
+  small:
+    height: 333
+    width: 500
+  small_jpg:
+    height: 333
+    width: 500
+  tiny:
+    height: 67
+    width: 100
+  tiny_jpg:
+    height: 67
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 08:46:58
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 4.970854
+    ColorSpace: 65535
+    CreateDate: 2021:07:21 11:24:18
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:21 11:24:18
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.003125
     FNumber: 5.6
-    ExposureProgram: 1
-    ISO: 100
-    SensitivityType: 2
-    RecommendedExposureIndex: 100
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:21 11:24:18
-    CreateDate: 2021:07:21 11:24:18
-    ShutterSpeedValue: 8.321928
-    ApertureValue: 4.970854
-    ExposureCompensation: 0
-    MaxApertureValue: 5.125
-    MeteringMode: 5
     Flash: 0
     FocalLength: 54
-    SubSecTimeOriginal: '40'
-    SubSecTimeDigitized: '40'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 2
     FocalPlaneXResolution: 6514.657980456026
     FocalPlaneYResolution: 6734.006734006734
-    FocalPlaneResolutionUnit: 2
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 100
     LensInfo:
-      - 18
-      - 150
-      - null
-      - null
+    - 18
+    - 150
+    - null
+    - null
     LensModel: EF-M18-150mm f/3.5-6.3 IS STM
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 5.125
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 8.321928
+    SubSecTimeDigitized: '40'
+    SubSecTimeOriginal: '40'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 08:46:58
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Reflections of Sheffield
+slug: window-reflection
+tags:
+- abstract
+- reflections
 versions:
-  full: >-
-    https://static.photos.jackdeadman.com/gallery/full/window-reflection.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/window-reflection.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/window-reflection.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/window-reflection.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/window-reflection.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/window-reflection.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/window-reflection.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/window-reflection.jpg
+  full: https://static.photos.jackdeadman.com/gallery/full/window-reflection.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/window-reflection.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/window-reflection.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/window-reflection.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/window-reflection.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/window-reflection.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/window-reflection.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/window-reflection.jpg

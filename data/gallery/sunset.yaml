@@ -1,75 +1,94 @@
-name: 'Sunset over Sheffield'
-description: 'Not a technically impressive photo but is symbolic of a new chapter in my life as I move to a new house!'
-alt: 'silhouette sunset picture over Sheffield.'
-tags:
-  - sunset
-  - abstract
-slug: sunset
+alt: silhouette sunset picture over Sheffield.
+description: Not a technically impressive photo but is symbolic of a new chapter in
+  my life as I move to a new house!
+dims:
+  full:
+    height: 3761
+    width: 5015
+  full_jpg:
+    height: 3761
+    width: 5015
+  med:
+    height: 750
+    width: 1000
+  med_jpg:
+    height: 750
+    width: 1000
+  small:
+    height: 375
+    width: 500
+  small_jpg:
+    height: 375
+    width: 500
+  tiny:
+    height: 75
+    width: 100
+  tiny_jpg:
+    height: 75
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 08:52:12
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 6
+    ColorSpace: 65535
+    CreateDate: 2021:07:08 21:55:44
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:08 21:55:44
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.03333333333333333
     FNumber: 8
-    ExposureProgram: 1
-    ISO: 100
-    SensitivityType: 2
-    RecommendedExposureIndex: 100
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:08 21:55:44
-    CreateDate: 2021:07:08 21:55:44
-    ShutterSpeedValue: 4.906891
-    ApertureValue: 6
-    ExposureCompensation: 0
-    MaxApertureValue: 5.375
-    MeteringMode: 5
     Flash: 0
     FocalLength: 135
-    SubSecTimeOriginal: '07'
-    SubSecTimeDigitized: '07'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 3
     FocalPlaneXResolution: 2789.976287841797
     FocalPlaneYResolution: 2789.976287841797
-    FocalPlaneResolutionUnit: 3
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 100
     LensInfo:
-      - 18
-      - 150
-      - null
-      - null
+    - 18
+    - 150
+    - null
+    - null
     LensModel: EF-M18-150mm f/3.5-6.3 IS STM
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 5.375
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 4.906891
+    SubSecTimeDigitized: '07'
+    SubSecTimeOriginal: '07'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 08:52:12
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Sunset over Sheffield
+slug: sunset
+tags:
+- sunset
+- abstract
 versions:
   full: https://static.photos.jackdeadman.com/gallery/full/sunset.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/sunset.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/sunset.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/sunset.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/sunset.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/sunset.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/sunset.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/sunset.jpg
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/sunset.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/sunset.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/sunset.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/sunset.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/sunset.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/sunset.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/sunset.jpg

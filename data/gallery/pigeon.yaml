@@ -1,75 +1,94 @@
-name: 'Penguin of Weston Park'
-description: "I like how the pigeon is frozen with the fast shutter. And it's funny that it looks like a penguin."
-tags:
-  - nature
-  - animal
-slug: pigeon
 alt: A picture of a pigeon that looks like a penguin from the one it is positioned.
+description: I like how the pigeon is frozen with the fast shutter. And it's funny
+  that it looks like a penguin.
+dims:
+  full:
+    height: 4000
+    width: 5333
+  full_jpg:
+    height: 4000
+    width: 5333
+  med:
+    height: 750
+    width: 1000
+  med_jpg:
+    height: 750
+    width: 1000
+  small:
+    height: 375
+    width: 500
+  small_jpg:
+    height: 375
+    width: 500
+  tiny:
+    height: 75
+    width: 100
+  tiny_jpg:
+    height: 75
+    width: 100
 meta:
-  image:
-    Make: Canon
-    Model: Canon EOS M50
-    Software: Adobe Imagecore (Linux)
-    ModifyDate: 2021:07:31 08:50:52
-    ExifOffset: 138
-  thumbnail: {}
   exif:
+    ApertureValue: 5.310704
+    ColorSpace: 65535
+    CreateDate: 2021:07:08 18:58:06
+    CustomRendered: 0
+    DateTimeOriginal: 2021:07:08 18:58:06
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
     ExposureTime: 0.001
     FNumber: 6.3
-    ExposureProgram: 1
-    ISO: 3200
-    SensitivityType: 2
-    RecommendedExposureIndex: 3200
-    ExifVersion:
-      type: Buffer
-      data:
-        - 48
-        - 50
-        - 51
-        - 49
-    DateTimeOriginal: 2021:07:08 18:58:06
-    CreateDate: 2021:07:08 18:58:06
-    ShutterSpeedValue: 9.965784
-    ApertureValue: 5.310704
-    ExposureCompensation: 0
-    MaxApertureValue: 5.375
-    MeteringMode: 5
     Flash: 0
     FocalLength: 150
-    SubSecTimeOriginal: '27'
-    SubSecTimeDigitized: '27'
-    ColorSpace: 65535
+    FocalPlaneResolutionUnit: 3
     FocalPlaneXResolution: 2789.976287841797
     FocalPlaneYResolution: 2789.976287841797
-    FocalPlaneResolutionUnit: 3
-    CustomRendered: 0
-    ExposureMode: 1
-    WhiteBalance: 0
-    SceneCaptureType: 0
-    SerialNumber: '103030002465'
+    ISO: 3200
     LensInfo:
-      - 18
-      - 150
-      - null
-      - null
+    - 18
+    - 150
+    - null
+    - null
     LensModel: EF-M18-150mm f/3.5-6.3 IS STM
     LensSerialNumber: '0000000000'
+    MaxApertureValue: 5.375
+    MeteringMode: 5
+    RecommendedExposureIndex: 3200
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 9.965784
+    SubSecTimeDigitized: '27'
+    SubSecTimeOriginal: '27'
+    WhiteBalance: 0
   gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:07:31 08:50:52
+    Software: Adobe Imagecore (Linux)
   interoperability: {}
   makernote: {}
+  thumbnail: {}
+name: Penguin of Weston Park
+slug: pigeon
+tags:
+- nature
+- animal
 versions:
   full: https://static.photos.jackdeadman.com/gallery/full/pigeon.webp
-  med: >-
-    https://static.photos.jackdeadman.com/gallery/med/pigeon.webp
-  small: >-
-    https://static.photos.jackdeadman.com/gallery/small/pigeon.webp
-  tiny: >-
-    https://static.photos.jackdeadman.com/gallery/tiny/pigeon.webp
-  full_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/full_jpg/pigeon.jpg
-  med_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/med_jpg/pigeon.jpg
-  small_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/small_jpg/pigeon.jpg
-  tiny_jpg: >-
-    https://static.photos.jackdeadman.com/gallery/tiny_jpg/pigeon.jpg
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/pigeon.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/pigeon.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/pigeon.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/pigeon.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/pigeon.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/pigeon.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/pigeon.jpg
