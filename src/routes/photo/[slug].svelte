@@ -44,7 +44,7 @@
 <svelte:head>
     <meta property="og:image" content={image.versions.med} />
     <meta property="og:description" content={image.description} />
-    <meta property="og:title" content={image.title} />
+    <meta property="og:title" content={image.name} />
 
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@jackdeadman96" />
