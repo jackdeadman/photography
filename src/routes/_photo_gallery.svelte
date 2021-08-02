@@ -63,6 +63,7 @@
         }
     };
 
+    let loadedFiles = {};
 </script>
 <h2 class="title">Gallery
     {#if tag}
@@ -75,7 +76,7 @@
 
 <div class="container" bind:this={element}>
     {#each photosToShow as photo, i (photo.slug)}
-        <PhotoGallery eagar={i<5 || (element && element.getBoundingClientRect().top < 0)} photo={photo}></PhotoGallery>
+        <PhotoGallery bind:loadedFiles photo={photo} eagar={i < 5 || loadedFiles[photo.slug]}></PhotoGallery>
     {/each}
 </div>
 

@@ -5,6 +5,7 @@
 
     export let photo;
     export let eagar = false;
+    export let loadedFiles;
     let element;
 
     function formatTag(string) {
@@ -20,13 +21,23 @@
         const currentTags = query.getAll('tag');
         return currentTags.indexOf(tag) !== -1;
     }
+
+    let intersecting = false;
+
+    $: {
+        console.log(loadedFiles)
+        if (intersecting) {
+            loadedFiles[photo.slug] = intersecting;
+        }
+    };
 </script>
 
-{#if eagar}
-    <div class="img-card">
+<IntersectionObserver rootMargin="100px" once {element} bind:intersecting>
+	<div class="img-card">
 		<div>
-            <a bind:this={element} sveltekit:prefetch href={`/photo/${photo.slug}`}>
-				<figure>
+			<a bind:this={element} sveltekit:prefetch href={`/photo/${photo.slug}`}>
+            {#if intersecting || eagar}
+				<figure in:fade>
 						<picture>
 							<source srcset={photo.versions.small} type="image/webp" />
 							<source srcset={photo.versions.small_jpg} type="image/jpeg" />
@@ -38,6 +49,9 @@
 							/>
 						</picture>
 				</figure>
+            {:else}
+                <div style={`width=${photo.dims.small.width}px;height=${photo.dims.small.height}px`}></div>
+            {/if}
             </a>
 		</div>
 
@@ -48,49 +62,13 @@
 
 			<ul class="tags">
 				{#each photo.tags as tag (tag)}
-                    <li class:active={hasTag(tag, $page.query)}><a href={hasTag(tag, $page.query) ? "/" : `?tag=${tag}`}>{formatTag(tag)}</a></li>
+					<li class:active={hasTag(tag, $page.query)}><a href="?tag={tag}">{formatTag(tag)}</a></li>
 				{/each}
 			</ul>
 		</div>
 	</div>
-{:else}
-    <IntersectionObserver rootMargin="100px" once {element} let:intersecting>
-        <div class="img-card">
-            <div>
-                <a bind:this={element} sveltekit:prefetch href={`/photo/${photo.slug}`}>
-                {#if intersecting || (element && element.getBoundingClientRect().top < 0)}
-                    <figure in:fade>
-                            <picture>
-                                <source srcset={photo.versions.small} type="image/webp" />
-                                <source srcset={photo.versions.small_jpg} type="image/jpeg" />
-                                <img
-                                    width={photo.dims.small.width}
-                                    height={photo.dims.small.height}
-                                    src={photo.versions.small_jpg}
-                                    alt={photo.alt}
-                                />
-                            </picture>
-                    </figure>
-                {:else}
-                    <div style={`width=${photo.dims.small.width}px;height=${photo.dims.small.height}px`}></div>
-                {/if}
-                </a>
-            </div>
+</IntersectionObserver>
 
-            <div class="info">
-                <h2><a href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
-                <p>{photo.description}</p>
-                <date>{formatDate(photo.meta.exif.DateTimeOriginal)}</date>
-
-                <ul class="tags">
-                    {#each photo.tags as tag (tag)}
-                        <li class:active={hasTag(tag, $page.query)}><a href="?tag={tag}">{formatTag(tag)}</a></li>
-                    {/each}
-                </ul>
-            </div>
-        </div>
-    </IntersectionObserver>
-{/if}
 <style>
 
 .tags {

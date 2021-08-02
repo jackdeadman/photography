@@ -14,6 +14,26 @@
     />
 </svelte:head>
 
+<script context="module">
+
+    export async function load({fetch}) {
+        const url = '/api/photos.json';
+        const res = await fetch(url);
+
+        if (res.ok) {
+            const photos = await res.json();
+            return {
+                context: { photos }
+            }
+        }
+
+        return {
+            status: res.status,
+            error: new Error('Failed to load images.'),
+        };
+    }
+</script>
+
 <script>
     import Nav from '../components/nav.svelte';
     import Footer from '../components/footer.svelte';

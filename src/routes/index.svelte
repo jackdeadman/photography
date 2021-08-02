@@ -1,20 +1,9 @@
 <script context="module">
 
-    export async function load({fetch}) {
-        const url = '/api/photos.json';
-        const res = await fetch(url);
-
-        if (res.ok) {
-            const photos = await res.json();
-            return {
-                props: { photos }
-            }
-        }
-
+    export async function load({context}) {
         return {
-            status: res.status,
-            error: new Error('Failed to load images.'),
-        };
+            props: { photos: context.photos }
+        }
     }
 </script>
 
@@ -24,12 +13,6 @@
     
     export let photos;
 
-    $: {
-        if (photos) {
-            console.log('Setting store')
-            photosStore.set(photos);
-        }
-    }
 </script>
 
 <svelte:head>
