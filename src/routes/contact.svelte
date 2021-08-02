@@ -5,7 +5,7 @@
 
 <h2>Contact</h2>
 
-<form name="contact" method="POST" data-netlify="true" action="/contact_success">
+<form name="contact" method="POST" data-netlify="true" action="/contact">
   <p>
     <label><span>Your Name:</span><input type="text" name="name" required/></label>   
   </p>
