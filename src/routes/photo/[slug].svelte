@@ -49,6 +49,8 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@jackdeadman96" />
     <meta name="twitter:creator" content="@jackdeadman96" />
+
+    <title>{image.name}</title>
 </svelte:head>
 
 <h2><a sveltekit:prefetch href="/">Gallery</a> / {image.name}</h2>

@@ -12,7 +12,9 @@
         href="/rss.xml"
         title="Jack Deadman Photography"
     />
+
 </svelte:head>
+
 
 <svelte:window on:popstate={e => {
     // Hack to fix inifinite scroll back button not working
