@@ -65,6 +65,7 @@
 
     let loadedFiles = {};
 </script>
+
 <h2 class="title">Gallery
     {#if tag}
     of: 

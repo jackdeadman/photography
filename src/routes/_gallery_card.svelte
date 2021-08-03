@@ -25,7 +25,6 @@
     let intersecting = false;
 
     $: {
-        console.log(loadedFiles)
         if (intersecting) {
             loadedFiles[photo.slug] = intersecting;
         }

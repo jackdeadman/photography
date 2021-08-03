@@ -14,6 +14,17 @@
     />
 </svelte:head>
 
+<svelte:window on:popstate={e => {
+    // Hack to fix inifinite scroll back button not working
+    setTimeout(() => {
+        scrollTo({
+            top: e.state['sveltekit:scroll'].y,
+            left: e.state['sveltekit:scroll'].x
+        });
+    }, 80)
+}} />
+
+
 <script context="module">
 
     export async function load({fetch}) {
