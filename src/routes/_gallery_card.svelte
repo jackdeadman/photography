@@ -72,7 +72,7 @@
 
 			<ul class="tags">
 				{#each photo.tags as tag (tag)}
-                    <li class:active={hasTag(tag, $page.query)}><a href={hasTag(tag, $page.query) ? "/" : `?tag=${tag}`}>{formatTag(tag)}</a></li>
+                    <li class:active={hasTag(tag, $page.query)}><a class="button" href={hasTag(tag, $page.query) ? "/" : `?tag=${tag}`}>{formatTag(tag)}</a></li>
 				{/each}
 			</ul>
 		</div>
@@ -105,15 +105,16 @@
     .tags li {
         list-style: none;
         display: inline-block;
-        padding: 5px 10px;
+        margin: 5px 10px 5px 0;
+        /* padding: 5px 10px;
         border-radius: 5px;
         background-color: #fff;
         border: 1px solid #ccc;
         color: #222;
-        margin: 5px 10px 5px 0;
+        margin: 5px 10px 5px 0; */
     }
 
-    .tags li.active {
+    .tags li.active a {
         background-color: #222;
         color: #ddd;
     }
