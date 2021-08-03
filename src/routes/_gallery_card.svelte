@@ -76,7 +76,7 @@
 
 			<ul class="tags">
 				{#each photo.tags as tag (tag)}
-					<li class:active={hasTag(tag, $page.query)}><a href="?tag={tag}">{formatTag(tag)}</a></li>
+                    <li class:active={hasTag(tag, $page.query)}><a href={hasTag(tag, $page.query) ? "/" : `?tag=${tag}`}>{formatTag(tag)}</a></li>
 				{/each}
 			</ul>
 		</div>
