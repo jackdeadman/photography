@@ -67,7 +67,10 @@
     <div class="info">
         <p>{image.description}</p>
     </div>
+
+    <a class="button" href={image.versions.full_jpg}>Download image</a>
 </div>
+
 
 <span class="meta-name">Gear</span>
         <ul class="exif">
@@ -82,9 +85,12 @@
             <li><span class="pill">Shutter Speed</span>1/{1 / image.meta.exif.ExposureTime}</li>
             <li><span class="pill">Focal Length</span>{image.meta.exif.FocalLength}mm</li>
         </ul>
-        <a href={image.versions.full_jpg}>Download image</a>
 
 <style>
+
+    .button {
+        text-align: center;
+    }
 
     .fullscreen {
 
@@ -189,16 +195,17 @@
         list-style: none;
         margin: 5px 0;
         margin-right: 10px;
-        border-bottom: 1px solid #555;
+        border: 1px solid #888;
+        padding-right: 8px;
+        border-radius: 3px;
     }
 
     .pill {
         display: inline-block;
         background-color: #222;
-        border-top-right-radius: 5px;
-        border-top-left-radius: 5px;
         padding: 4px 8px;
         margin-right: 3px;
         color: #ddd;
     }
+
 </style>

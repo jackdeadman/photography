@@ -87,4 +87,22 @@
     box-shadow: 1px 1px 2px #ccc;
     margin: 1em 0; padding: 0;
 }
+
+:global(.button) {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #fff;
+    
+    color: #111;
+    border: 1px solid #aaa;
+    
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all ease 0.2s;
+}
+
+:global(.button:hover) {
+    border: 1px solid #ccc;
+    color: #555;
+}
 </style>
