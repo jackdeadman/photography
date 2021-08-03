@@ -1,6 +1,6 @@
 # Jack Deadman Photography Site
 
-Welcome to my repository for my photography website. It is a site built with Svelte-kit. For the live site please visit:
+Welcome to the repository for my photography website. It is a site built with Svelte-kit. For the live site please visit:
 
 
 [https://photos.jackdeadman.com](https://photos.jackdeadman.com)
