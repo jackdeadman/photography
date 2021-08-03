@@ -36,7 +36,8 @@
 		<div>
 			<a bind:this={element} sveltekit:prefetch href={`/photo/${photo.slug}`}>
             {#if intersecting || eagar}
-				<figure in:fade>
+                {#if eagar}
+				<figure>
 						<picture>
 							<source srcset={photo.versions.small} type="image/webp" />
 							<source srcset={photo.versions.small_jpg} type="image/jpeg" />
@@ -48,6 +49,20 @@
 							/>
 						</picture>
 				</figure>
+                {:else}
+                <figure in:fade>
+						<picture>
+							<source srcset={photo.versions.small} type="image/webp" />
+							<source srcset={photo.versions.small_jpg} type="image/jpeg" />
+							<img
+								width={photo.dims.small.width}
+								height={photo.dims.small.height}
+								src={photo.versions.small_jpg}
+								alt={photo.alt}
+							/>
+						</picture>
+				</figure>
+                {/if}
             {:else}
                 <div style={`width=${photo.dims.small.width}px;height=${photo.dims.small.height}px`}></div>
             {/if}
