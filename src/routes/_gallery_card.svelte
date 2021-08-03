@@ -66,7 +66,7 @@
 		</div>
 
 		<div class="info">
-			<h2><a href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
+			<h2><a sveltekit:prefetch href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
 			<p>{photo.description}</p>
 			<date>{formatDate(photo.meta.exif.DateTimeOriginal)}</date>
 
