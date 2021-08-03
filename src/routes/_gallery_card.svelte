@@ -32,41 +32,37 @@
 </script>
 
 <IntersectionObserver rootMargin="100px" once {element} bind:intersecting>
-	<div class="img-card">
+	<div class="img-card" bind:this={element}>
 		<div>
-			<a bind:this={element} sveltekit:prefetch href={`/photo/${photo.slug}`}>
             {#if intersecting || eagar}
-                {#if eagar}
-				<figure>
-						<picture>
-							<source srcset={photo.versions.small} type="image/webp" />
-							<source srcset={photo.versions.small_jpg} type="image/jpeg" />
-							<img
-								width={photo.dims.small.width}
-								height={photo.dims.small.height}
-								src={photo.versions.small_jpg}
-								alt={photo.alt}
-							/>
-						</picture>
+                <figure>
+                    <a sveltekit:prefetch href={`/photo/${photo.slug}`}>
+                        {#if eagar}
+                            <picture>
+                                <source srcset={photo.versions.small} type="image/webp" />
+                                <source srcset={photo.versions.small_jpg} type="image/jpeg" />
+                                <img
+                                    width={photo.dims.small.width}
+                                    height={photo.dims.small.height}
+                                    src={photo.versions.small_jpg}
+                                    alt={photo.alt}
+                                />
+                            </picture>
+                       {:else}
+                            <picture>
+                                <source srcset={photo.versions.small} type="image/webp" />
+                                <source srcset={photo.versions.small_jpg} type="image/jpeg" />
+                                <img
+                                    width={photo.dims.small.width}
+                                    height={photo.dims.small.height}
+                                    src={photo.versions.small_jpg}
+                                    alt={photo.alt}
+                                />
+                            </picture>
+                        {/if}
+                    </a>
 				</figure>
-                {:else}
-                <figure in:fade>
-						<picture>
-							<source srcset={photo.versions.small} type="image/webp" />
-							<source srcset={photo.versions.small_jpg} type="image/jpeg" />
-							<img
-								width={photo.dims.small.width}
-								height={photo.dims.small.height}
-								src={photo.versions.small_jpg}
-								alt={photo.alt}
-							/>
-						</picture>
-				</figure>
-                {/if}
-            {:else}
-                <div style={`width=${photo.dims.small.width}px;height=${photo.dims.small.height}px`}></div>
             {/if}
-            </a>
 		</div>
 
 		<div class="info">
