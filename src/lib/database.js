@@ -13,7 +13,14 @@ const db = {
     },
 
     getBySlug: async function(slug) {
-        return photosJson.slugs[slug];
+
+        let image = photosJson.slugs[slug];
+
+        if (!image) {
+            throw new Error('Failed to find image.')
+        }
+
+        return image;
     }
 };
 

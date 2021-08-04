@@ -31,7 +31,7 @@
     };
 </script>
 
-<IntersectionObserver rootMargin="100px" once {element} bind:intersecting>
+<IntersectionObserver rootMargin="0px" once {element} bind:intersecting>
 	<div class="img-card" bind:this={element}>
 		<div>
             {#if intersecting || eagar}
@@ -62,6 +62,10 @@
                         {/if}
                     </a>
 				</figure>
+            
+            
+            {:else}
+                <div style="width:{photo.dims.small.width}px; height={photo.dims.small.height}px"></div>
             {/if}
 		</div>
 

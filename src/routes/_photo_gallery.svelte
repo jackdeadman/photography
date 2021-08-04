@@ -77,7 +77,7 @@
 
 <div class="container" bind:this={element}>
     {#each photosToShow as photo, i (photo.slug)}
-        <PhotoGallery bind:loadedFiles photo={photo} eagar={i < 5}></PhotoGallery>
+        <PhotoGallery bind:loadedFiles photo={photo} eagar={i < 1}></PhotoGallery>
     {/each}
 </div>
 

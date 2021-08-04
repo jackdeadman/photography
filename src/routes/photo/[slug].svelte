@@ -5,6 +5,14 @@
         const url = `/api/photo/${page.params.slug}`;
         const res = await fetch(url);
 
+        if (res.status != 200) {
+            console.log(res)
+            return {
+                status: res.status,
+                error: (await res.json()).error
+            }
+        }
+
         return {
             props: {
                 image: await res.json()
