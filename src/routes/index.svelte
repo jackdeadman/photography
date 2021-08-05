@@ -21,5 +21,3 @@
 
 
 <PhotoGallery photos={photos}/>
-<PhotoGallery photos={photos}/>
-<PhotoGallery photos={photos}/>
