@@ -1,0 +1,98 @@
+alt: Picture of the sun beaming through two trees casting a bright spot of light on
+  the pathway.
+description: A picture taken on my walk home after getting vaccinated. I like how the picture looks like it's from some kind of fantasy world. In reality it's a little forest next to a smelly recycling centre!
+dims:
+  full:
+    height: 5770
+    width: 3846
+  full_jpg:
+    height: 5770
+    width: 3846
+  med:
+    height: 1500
+    width: 1000
+  med_jpg:
+    height: 1500
+    width: 1000
+  small:
+    height: 750
+    width: 500
+  small_jpg:
+    height: 750
+    width: 500
+  tiny:
+    height: 150
+    width: 100
+  tiny_jpg:
+    height: 150
+    width: 100
+meta:
+  exif:
+    ApertureValue: 1.695994
+    ColorSpace: 65535
+    CreateDate: 2021:08:04 18:57:49
+    CustomRendered: 0
+    DateTimeOriginal: 2021:08:04 18:57:49
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 0.001
+    FNumber: 1.8
+    Flash: 0
+    FocalLength: 50
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    ISO: 400
+    LensInfo:
+    - 50
+    - 50
+    - null
+    - null
+    LensModel: EF50mm f/1.8 II
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 1.75
+    MeteringMode: 5
+    RecommendedExposureIndex: 400
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 9.965784
+    SubSecTimeDigitized: '46'
+    SubSecTimeOriginal: '46'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:08:05 09:32:44
+    Software: Adobe Imagecore (Linux)
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: A Journey Home
+published: Thu, 05 Aug 2021 16:33:28 GMT
+slug: journey-home
+tags:
+- nature
+- trees
+- light
+- shadows
+- sun
+versions:
+  full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/journey-home.webp
+  full_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/journey-home.jpg
+  med: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/journey-home.webp
+  med_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/journey-home.jpg
+  small: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/journey-home.webp
+  small_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/journey-home.jpg
+  tiny: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/journey-home.webp
+  tiny_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/journey-home.jpg

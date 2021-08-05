@@ -2,7 +2,7 @@ import photosJson from './photos.json';
 
 function time(str) {
     const [year, month, day] = str.split(' ')[0].split(':');
-    return day + month*100 + year * 10000;
+    return parseInt(day) + parseInt(month)*1000 + parseInt(year)*10000;
 }
 
 const db = {
