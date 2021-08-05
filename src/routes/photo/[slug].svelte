@@ -6,7 +6,6 @@
         const res = await fetch(url);
 
         if (res.status != 200) {
-            console.log(res)
             return {
                 status: res.status,
                 error: (await res.json()).error
@@ -45,9 +44,18 @@
                 }
             };
     };
+
+    function handleKeyDown(e) {
+        const escapeKeyCode = 27;
+
+        if (e.keyCode === escapeKeyCode) {
+            fullscreen = false;
+        }
+    }
+
 </script>
 
-<svelte:window use:wheel={{scrollable}} />
+<svelte:window on:keydown={handleKeyDown} use:wheel={{scrollable}} />
 
 <svelte:head>
     <meta property="og:image" content={image.versions.med} />
