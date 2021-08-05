@@ -88,11 +88,11 @@ tags:
 - shadows
 - sun
 versions:
-  full: https://jack-deadman-photography.s3.amazonaws.com/gallery/full/journey-home.webp
-  full_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/full_jpg/journey-home.jpg
-  med: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med/journey-home.webp
-  med_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/med_jpg/journey-home.jpg
-  small: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small/journey-home.webp
-  small_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/small_jpg/journey-home.jpg
-  tiny: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny/journey-home.webp
-  tiny_jpg: https://jack-deadman-photography.s3.eu-west-2.amazonaws.com/gallery/tiny_jpg/journey-home.jpg
+  full: https://static.photos.jackdeadman.com/gallery/full/journey-home.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/journey-home.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/journey-home.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/journey-home.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/journey-home.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/journey-home.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/journey-home.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/journey-home.jpg
