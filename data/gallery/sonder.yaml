@@ -1,0 +1,105 @@
+alt: A picture taken from the old bridge in Bakewell. The view looks upon the river
+  showing several people with their own lives. A man with his shirt off at the front,
+  some dog walkers, a man fishing, a lady sitting on a bench on her own and some people
+  with their dog in the water.
+description: "*&#8220;the realisation that each random passerby is living a life
+  as vivid and complex as your own&#8221;*.<br><br>
+  
+  I went to Bakewell for a much needed day off,
+  I decided to challenge myself by only using my 22mm lens. When I finished the day,
+  I didn't feel like I really took any good shots. Then I saw this one, it's quite
+  nice to look at first glance, but it is also a bit deeper. I enjoy zooming into
+  this photo (you might need to download the full resolution version) and having a glimpse into the lives of the different people. E.g., the man on his phone, the man fishing and the cute doggy in the background playing in the water."
+dims:
+  full:
+    height: 4000
+    width: 5334
+  full_jpg:
+    height: 4000
+    width: 5334
+  med:
+    height: 750
+    width: 1000
+  med_jpg:
+    height: 750
+    width: 1000
+  small:
+    height: 375
+    width: 500
+  small_jpg:
+    height: 375
+    width: 500
+  tiny:
+    height: 75
+    width: 100
+  tiny_jpg:
+    height: 75
+    width: 100
+meta:
+  exif:
+    ApertureValue: 4.970854
+    ColorSpace: 65535
+    CreateDate: 2021:08:11 15:13:05
+    CustomRendered: 0
+    DateTimeOriginal: 2021:08:11 15:13:05
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 0.00125
+    FNumber: 5.6
+    Flash: 0
+    FocalLength: 22
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    ISO: 250
+    LensInfo:
+    - 22
+    - 22
+    - null
+    - null
+    LensModel: EF-M22mm f/2 STM
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 2
+    MeteringMode: 5
+    RecommendedExposureIndex: 250
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 9.643856
+    SubSecTimeDigitized: '10'
+    SubSecTimeOriginal: '10'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:08:12 13:46:21
+    Software: Adobe Imagecore (Linux)
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: Sonder
+published: Thu, 12 Aug 2021 20:52:13 GMT
+slug: sonder
+tags:
+- people
+- calm
+- nature
+versions:
+  full: https://static.photos.jackdeadman.com/gallery/full/sonder.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/sonder.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/sonder.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/sonder.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/sonder.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/sonder.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/sonder.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/sonder.jpg

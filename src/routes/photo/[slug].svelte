@@ -23,6 +23,7 @@
 
 <script>
     export let image;
+    import snarkdown from "snarkdown";
     let fullscreen = false;
     $: scrollable = !fullscreen;
 
@@ -59,7 +60,7 @@
 
 <svelte:head>
     <meta property="og:image" content={image.versions.med} />
-    <meta property="og:description" content={image.description} />
+    <meta property="og:description" content={snarkdown(image.description)} />
     <meta property="og:title" content={image.name} />
 
     <meta name="twitter:card" content="summary" />
@@ -83,7 +84,7 @@
     </figure>
 
     <div class="info">
-        <p>{image.description}</p>
+        <p>{@html snarkdown(image.description)}</p>
     </div>
 
     <a class="button" href={image.versions.full_jpg}>Download image</a>

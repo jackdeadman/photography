@@ -1,6 +1,7 @@
 <script>
     import IntersectionObserver from "svelte-intersection-observer";
     import { fade } from 'svelte/transition';
+    import snarkdown from "snarkdown";
     import { page } from '$app/stores';
 
     export let photo;
@@ -71,7 +72,7 @@
 
 		<div class="info">
 			<h2><a sveltekit:prefetch href={`/photo/${photo.slug}`}>{photo.name}</a></h2>
-			<p>{photo.description}</p>
+			<p>{@html snarkdown(photo.description)}</p>
 			<date>{formatDate(photo.meta.exif.DateTimeOriginal)}</date>
 
 			<ul class="tags">
