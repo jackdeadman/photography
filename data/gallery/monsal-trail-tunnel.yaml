@@ -1,0 +1,92 @@
+alt: 'A picture inside a tunnel of a cyclist with a bright yellow helmet.'
+description: 'I like the composition of this photo. The lights guide the viewer through the journey of the cyclist. I itentionally left room on the right-hand side of the frame to show where the cylist journey continues. I was especially lucky they are wearing such a bright helmet!'
+dims:
+  full:
+    height: 3648
+    width: 4865
+  full_jpg:
+    height: 3648
+    width: 4865
+  med:
+    height: 750
+    width: 1000
+  med_jpg:
+    height: 750
+    width: 1000
+  small:
+    height: 375
+    width: 500
+  small_jpg:
+    height: 375
+    width: 500
+  tiny:
+    height: 75
+    width: 100
+  tiny_jpg:
+    height: 75
+    width: 100
+meta:
+  exif:
+    ApertureValue: 1.695994
+    ColorSpace: 65535
+    CreateDate: 2021:10:10 14:29:28
+    CustomRendered: 0
+    DateTimeOriginal: 2021:10:10 14:29:28
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 0.01
+    FNumber: 1.8
+    Flash: 0
+    FocalLength: 50
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    ISO: 800
+    LensInfo:
+    - 50
+    - 50
+    - null
+    - null
+    LensModel: EF50mm f/1.8 II
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 1.75
+    MeteringMode: 5
+    RecommendedExposureIndex: 800
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 6.643856
+    SubSecTimeDigitized: '51'
+    SubSecTimeOriginal: '51'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:10:11 12:54:59
+    Software: Adobe Imagecore (Linux)
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: 'Mr Yellow Helmet'
+published: Mon, 11 Oct 2021 19:58:36 GMT
+slug: monsal-trail-tunnel
+tags: [dark, bike, lights, tunnel]
+versions:
+  full: https://static.photos.jackdeadman.com/gallery/full/monsal-trail-tunnel.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/monsal-trail-tunnel.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/monsal-trail-tunnel.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/monsal-trail-tunnel.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/monsal-trail-tunnel.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/monsal-trail-tunnel.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/monsal-trail-tunnel.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/monsal-trail-tunnel.jpg

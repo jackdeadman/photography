@@ -1,0 +1,92 @@
+alt: 'Picture taken from the Monsal trail bridge of the nearby river. Three people are evenly spaced out along the side in quite bright clothes.'
+description: 'Just a nice calm picture of some people down by the riverside. Most of the picture posted from the Monsal trail are of the bridge. This picture reverses this and takes a picture from the bridge.'
+dims:
+  full:
+    height: 4942
+    width: 3701
+  full_jpg:
+    height: 4942
+    width: 3701
+  med:
+    height: 1335
+    width: 1000
+  med_jpg:
+    height: 1335
+    width: 1000
+  small:
+    height: 668
+    width: 500
+  small_jpg:
+    height: 668
+    width: 500
+  tiny:
+    height: 134
+    width: 100
+  tiny_jpg:
+    height: 134
+    width: 100
+meta:
+  exif:
+    ApertureValue: 8
+    ColorSpace: 65535
+    CreateDate: 2021:10:10 14:37:38
+    CustomRendered: 0
+    DateTimeOriginal: 2021:10:10 14:37:38
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 0.01
+    FNumber: 16
+    Flash: 0
+    FocalLength: 50
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    ISO: 100
+    LensInfo:
+    - 50
+    - 50
+    - null
+    - null
+    LensModel: EF50mm f/1.8 II
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 1.75
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 6.643856
+    SubSecTimeDigitized: '75'
+    SubSecTimeOriginal: '75'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2021:10:11 13:02:46
+    Software: Adobe Imagecore (Linux)
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: 'Down by the Riverside'
+published: Mon, 11 Oct 2021 20:04:12 GMT
+slug: down-by-the-river
+tags: [people, calm, river, nature]
+versions:
+  full: https://static.photos.jackdeadman.com/gallery/full/down-by-the-river.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/down-by-the-river.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/down-by-the-river.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/down-by-the-river.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/down-by-the-river.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/down-by-the-river.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/down-by-the-river.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/down-by-the-river.jpg
