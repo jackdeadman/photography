@@ -1,0 +1,103 @@
+alt: 'Long exposure of Barber road in Crookesmoor. The picture shows a light-trail going through the frame towards the Arts Tower.'
+description: 'I like this composition as the light-trail guides the viewer through the frame of the photo. Starting in the bottom right, then along the road until we get to the Arts Tower.'
+dims:
+  full:
+    height: 3428
+    width: 4570
+  full_jpg:
+    height: 3428
+    width: 4570
+  med:
+    height: 750
+    width: 1000
+  med_jpg:
+    height: 750
+    width: 1000
+  small:
+    height: 375
+    width: 500
+  small_jpg:
+    height: 375
+    width: 500
+  tiny:
+    height: 75
+    width: 100
+  tiny_jpg:
+    height: 75
+    width: 100
+meta:
+  exif:
+    ApertureValue: 7.40087899756873
+    ColorSpace: 1
+    CreateDate: 2022:01:23 18:23:11
+    CustomRendered: 0
+    DateTimeOriginal: 2022:01:23 18:23:11
+    ExifImageHeight: 3428
+    ExifImageWidth: 4570
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 25
+    FNumber: 13
+    Flash: 0
+    FocalLength: 30
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.9762886597937
+    FocalPlaneYResolution: 2789.9762886597937
+    ISO: 100
+    LensInfo:
+    - 30
+    - 30
+    - 0
+    - 0
+    LensModel: 30mm F1.4 DC DN | Contemporary 016
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 1
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: -4.643856000573703
+    SubSecTimeDigitized: '3'
+    SubSecTimeOriginal: '3'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    Copyright: "\xC2\xA9 Jack Deadman"
+    ExifOffset: 220
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2022:01:24 15:54:39
+    Orientation: 1
+    ResolutionUnit: 2
+    Software: TouchRetouch
+    XResolution: 300
+    YResolution: 300
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: 'Crookesmoor'
+published: Mon, 24 Jan 2022 16:54:52 GMT
+slug: crookesmoor
+tags:
+  - night
+  - calm
+  - "long exposure"
+  - street
+versions:
+  full: https://static.photos.jackdeadman.com/gallery/full/crookesmoor.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/crookesmoor.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/crookesmoor.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/crookesmoor.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/crookesmoor.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/crookesmoor.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/crookesmoor.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/crookesmoor.jpg
