@@ -54,6 +54,14 @@
         }
     }
 
+    function formatExposureTime(time) {
+        if (time < 1) {
+            return "1/" + String(time * 1000);
+        } else {
+            return String(time) + 's'
+        }
+    }
+
 </script>
 
 <svelte:window on:keydown={handleKeyDown} use:wheel={{scrollable}} />
@@ -101,7 +109,7 @@
         <ul class="exif smaller">
             <li><span class="pill">F-Stop</span>F/{image.meta.exif.FNumber}</li>
             <li><span class="pill">ISO</span>{image.meta.exif.ISO}</li>
-            <li><span class="pill">Shutter Speed</span>1/{1 / image.meta.exif.ExposureTime}</li>
+            <li><span class="pill">Shutter Speed</span>{formatExposureTime(image.meta.exif.ExposureTime)}</li>
             <li><span class="pill">Focal Length</span>{image.meta.exif.FocalLength}mm</li>
         </ul>
 
