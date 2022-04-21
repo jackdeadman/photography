@@ -1,0 +1,96 @@
+alt: Picture of a house in Castleton. The foreground has out of focus grass with a
+  isolated house in the midground. Sheep are in the background.
+description: 'I went for a nice walk with friends around Castleton in the Peak District. During the walk I saw this very isolated house and thought the scene looked like a painting.'
+dims:
+  full:
+    height: 3669
+    width: 5503
+  full_jpg:
+    height: 3669
+    width: 5503
+  med:
+    height: 667
+    width: 1000
+  med_jpg:
+    height: 667
+    width: 1000
+  small:
+    height: 333
+    width: 500
+  small_jpg:
+    height: 333
+    width: 500
+  tiny:
+    height: 67
+    width: 100
+  tiny_jpg:
+    height: 67
+    width: 100
+meta:
+  exif:
+    ApertureValue: 5.310704
+    ColorSpace: 65535
+    CreateDate: 2022:04:03 13:55:57
+    CustomRendered: 0
+    DateTimeOriginal: 2022:04:03 13:55:57
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 0.004
+    FNumber: 6.3
+    Flash: 0
+    FocalLength: 89
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    ISO: 400
+    LensInfo:
+    - 18
+    - 150
+    - null
+    - null
+    LensModel: EF-M18-150mm f/3.5-6.3 IS STM
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 5.375
+    MeteringMode: 5
+    RecommendedExposureIndex: 400
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: 7.965784
+    SubSecTimeDigitized: '39'
+    SubSecTimeOriginal: '39'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2022:04:21 11:06:07
+    Software: Adobe Imagecore (Linux)
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: Walk in the Peaks
+published: Thu, 21 Apr 2022 11:09:58 GMT
+slug: walk-in-the-peaks
+tags:
+- nature
+- walk
+- calm
+versions:
+  full: https://static.photos.jackdeadman.com/gallery/full/walk-in-the-peaks.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/walk-in-the-peaks.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/walk-in-the-peaks.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/walk-in-the-peaks.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/walk-in-the-peaks.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/walk-in-the-peaks.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/walk-in-the-peaks.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/walk-in-the-peaks.jpg

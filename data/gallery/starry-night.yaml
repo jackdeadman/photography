@@ -1,0 +1,92 @@
+alt: 'Long exposure picture of the night sky showing many stars with trees at the bottom of the frame.'
+description: "I don't see many starry nights living in the city so it made a nice change seeing so many after a late walk in the Peak District."
+dims:
+  full:
+    height: 5996
+    width: 4000
+  full_jpg:
+    height: 5996
+    width: 4000
+  med:
+    height: 1499
+    width: 1000
+  med_jpg:
+    height: 1499
+    width: 1000
+  small:
+    height: 750
+    width: 500
+  small_jpg:
+    height: 750
+    width: 500
+  tiny:
+    height: 150
+    width: 100
+  tiny_jpg:
+    height: 150
+    width: 100
+meta:
+  exif:
+    ApertureValue: 0.970854
+    ColorSpace: 65535
+    CreateDate: 2022:01:30 19:27:25
+    CustomRendered: 0
+    DateTimeOriginal: 2022:01:30 19:27:25
+    ExifVersion:
+      data:
+      - 48
+      - 50
+      - 51
+      - 49
+      type: Buffer
+    ExposureCompensation: 0
+    ExposureMode: 1
+    ExposureProgram: 1
+    ExposureTime: 6
+    FNumber: 1.4
+    Flash: 0
+    FocalLength: 30
+    FocalPlaneResolutionUnit: 3
+    FocalPlaneXResolution: 2789.976287841797
+    FocalPlaneYResolution: 2789.976287841797
+    ISO: 100
+    LensInfo:
+    - 30
+    - 30
+    - null
+    - null
+    LensModel: 30mm F1.4 DC DN | Contemporary 016
+    LensSerialNumber: '0000000000'
+    MaxApertureValue: 1
+    MeteringMode: 5
+    RecommendedExposureIndex: 100
+    SceneCaptureType: 0
+    SensitivityType: 2
+    SerialNumber: '103030002465'
+    ShutterSpeedValue: -2.584963
+    SubSecTimeDigitized: '69'
+    SubSecTimeOriginal: '69'
+    WhiteBalance: 0
+  gps: {}
+  image:
+    ExifOffset: 138
+    Make: Canon
+    Model: Canon EOS M50
+    ModifyDate: 2022:04:21 11:05:00
+    Software: Adobe Imagecore (Linux)
+  interoperability: {}
+  makernote: {}
+  thumbnail: {}
+name: 'Starry Night'
+published: Thu, 21 Apr 2022 11:16:05 GMT
+slug: starry-night
+tags: ["dark", "stars", "night", "long exposure"]
+versions:
+  full: https://static.photos.jackdeadman.com/gallery/full/starry-night.webp
+  full_jpg: https://static.photos.jackdeadman.com/gallery/full_jpg/starry-night.jpg
+  med: https://static.photos.jackdeadman.com/gallery/med/starry-night.webp
+  med_jpg: https://static.photos.jackdeadman.com/gallery/med_jpg/starry-night.jpg
+  small: https://static.photos.jackdeadman.com/gallery/small/starry-night.webp
+  small_jpg: https://static.photos.jackdeadman.com/gallery/small_jpg/starry-night.jpg
+  tiny: https://static.photos.jackdeadman.com/gallery/tiny/starry-night.webp
+  tiny_jpg: https://static.photos.jackdeadman.com/gallery/tiny_jpg/starry-night.jpg
